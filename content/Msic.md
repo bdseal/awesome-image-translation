@@ -27,6 +27,10 @@ arxiv, 2019. [[PDF](https://arxiv.org/abs/1912.11258)] [[Github](https://github.
 
 ## Deep Learning on Embedded Systems
 
+**SqueezeWave: Extremely Lightweight Vocoders for On-device Speech Synthesis.**<br>
+*Bohan Zhai, Tianren Gao, Flora Xue, Daniel Rothchild, Bichen Wu, Joseph E. Gonzalez, Kurt Keutzer.*<br>
+arxiv, 16 Jan 2020. [[PDF]](https://arxiv.org/abs/2001.05685)
+
 **FastDepth: Fast Monocular Depth Estimation on Embedded Systems.**<br>
 *Diana Wofk, Fangchang Ma, Tien-Ju Yang, Sertac Karaman, Vivienne Sze.*<br>
 ICRA, 2019.
