@@ -666,6 +666,6 @@ Computer Graphics, TU Braunschweig, Germany.
 
 [PyTranking](https://github.com/visionml/pytracking). A general python framework for training and running visual object trackers, based on PyTorch.
 
-
+[PySlowFast](https://github.com/facebookresearch/SlowFast). PySlowFast: video understanding codebase from FAIR for reproducing state-of-the-art video models.
 
 
