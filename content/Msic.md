@@ -59,6 +59,55 @@ NeurIPS, 2019.
 [[Github](https://github.com/JiawangBian/SC-SfMLearner-Release)]
 [[Project](https://jwbian.net/sc-sfmlearner)]
 
+## Depth and Related Tasks
+
+**Pattern-Affinitive Propagation Across Depth, Surface Normal and Semantic Segmentation.**<br>
+*Zhenyu Zhang, Zhen Cui, Chunyan Xu, Yan Yan, Nicu Sebe, Jian Yang.*<br>
+CVPR 2019. [[PDF](http://openaccess.thecvf.com/content_CVPR_2019/papers/Zhang_Pattern-Affinitive_Propagation_Across_Depth_Surface_Normal_and_Semantic_Segmentation_CVPR_2019_paper.pdf)]
+
+**Competitive Collaboration: Joint Unsupervised Learning of Depth, Camera Motion, Optical Flow and Motion Segmentation.**<br>
+*Anurag Ranjan, [Varun Jampani](https://varunjampani.github.io/), Lukas Balles, Kihwan Kim, Deqing Sun, Jonas Wulff, Michael J. Black.*<br>
+CVPR 2019. [[PDF](http://openaccess.thecvf.com/content_CVPR_2019/papers/Ranjan_Competitive_Collaboration_Joint_Unsupervised_Learning_of_Depth_Camera_Motion_Optical_CVPR_2019_paper.pdf)]
+[[Github](http://github.com/anuragranj/cc)]
+
+## Learning Temporal Information from Videos
+[Related Topics: Object Detection, Tracking and Segmentation.]
+
+### FastSlow, Multiple Stream and Temporal Pyramid
+**SlowFast Networks for Video Recognition.**<br>
+*Christoph Feichtenhofer, Haoqi Fan, Jitendra Malik, Kaiming He.*<br>
+ICCV 2019. 
+[[PDF](http://openaccess.thecvf.com/content_ICCV_2019/papers/Feichtenhofer_SlowFast_Networks_for_Video_Recognition_ICCV_2019_paper.pdf)]
+[[Github](https://github.com/facebookresearch/SlowFast)]
+
+### 3D convolutions (C3D)
+**Learning a Spatio-Temporal Embedding for Video Instance Segmentation.**<br>
+*Anthony Hu, Alex Kendall, Roberto Cipolla.*<br>
+ICLR 2020. [[PDF](https://arxiv.org/abs/1912.08969v1)]
+
+**Fast Spatio-Temporal Residual Network for Video Super-Resolution.**<br>
+*Sheng Li, Fengxiang He, Bo Du, Lefei Zhang, Yonghao Xu, Dacheng Tao.*<br>
+CVPR 2019. [[PDF](http://openaccess.thecvf.com/content_CVPR_2019/papers/Li_Fast_Spatio-Temporal_Residual_Network_for_Video_Super-Resolution_CVPR_2019_paper.pdf)]
+
+### Flow
+**Unsupervised Scale-consistent Depth and Ego-motion Learning from Monocular Video.**<br>
+*Jia-Wang Bian, Zhichao Li, Naiyan Wang, Huangying Zhan, Chunhua Shen, Ming-Ming Cheng, Ian Reid.* <br>
+NeurIPS, 2019.  
+[[PDF](https://papers.nips.cc/paper/8299-unsupervised-scale-consistent-depth-and-ego-motion-learning-from-monocular-video.pdf)] 
+[[Github](https://github.com/JiawangBian/SC-SfMLearner-Release)]
+[[Project](https://jwbian.net/sc-sfmlearner)]
+
+### 2DCNN + LSTM (Temporal Block)
+**Exploiting Temporal Consistency for Real-time Video Depth Estimation.**<br>
+*Haokui Zhang, Chunhua Shen, Ying Li, Yuanzhouhan Cao, Yu Liu, Youliang Yan.*<br>
+ICCV, 2019. [[PDF](https://arxiv.org/abs/1908.03706.pdf)] [[Project](https://tinyurl.com/STCLSTM)]
+
+**3D Human Pose Estimation in Video with Temporal Convolutions and Semi-supervised Training.**<br>
+*Dario Pavllo, Christoph Feichtenhofer, David Grangier, Michael Auli.*<br>
+CVPR 2019. [[PDF](http://openaccess.thecvf.com/content_CVPR_2019/papers/Pavllo_3D_Human_Pose_Estimation_in_Video_With_Temporal_Convolutions_and_CVPR_2019_paper.pdf)] [[Github](https://github.com/
+facebookresearch/VideoPose3D)] [[Project](https://dariopavllo.github.io/VideoPose3D
+)]
+
 ## Reciprocal Computer Vision Tasks
 
 **DSNet: Joint Learning for Scene Segmentation and Disparity Estimation** <br>
