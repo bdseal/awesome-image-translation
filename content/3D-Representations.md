@@ -53,10 +53,16 @@ SIGGRAPH 2019. [[PDF](https://arxiv.org/abs/1906.07751)]
 *Gengshan Yang, Deva Ramanan.*<br>
 NeurIPS 2019. [[PDF](http://www.contrib.andrew.cmu.edu/~gengshay/wordpress/wp-content/uploads/2019/11/vcn.pdf)] [[GitHub](https://github.com/gengshan-y/VCN)] [[Project](http://www.contrib.andrew.cmu.edu/~gengshay/neurips19flow)]
 
+## Surface Cuts and Parameterization 
+
+**OptCuts: Joint Optimization of Surface Cuts and Parameterization.**<br>
+*Minchen Li, Danny M. Kaufman, Vladimir G. Kim, Justin Solomon, Alla Sheffer.*<br>
+ACM Transactions on Graphics (SIGGRAPH Asia), 2018. [[PDF](http://www.cs.ubc.ca/labs/imager/tr/2018/OptCuts/doc/OptCuts.pdf)] [[Code and Data]()] [[](http://www.cs.ubc.ca/labs/imager/tr/2018/OptCuts/)] 
+
 ## Dense Shape Correspondence & Matching
 
-**Self-supervised Learning of Dense Shape Correspondence.**
-*Oshri Halimi, [Or Litany](https://orlitany.github.io/), Emanuele Rodola, Alex M. Bronstein, Ron Kimmel.*
+**Self-supervised Learning of Dense Shape Correspondence.**<br>
+*Oshri Halimi, [Or Litany](https://orlitany.github.io/), Emanuele Rodola, Alex M. Bronstein, Ron Kimmel.*<br>
 CVPR 2019 Oral. [[PDF](http://openaccess.thecvf.com/content_CVPR_2019/html/Halimi_Unsupervised_Learning_of_Dense_Shape_Correspondence_CVPR_2019_paper.html)] [[PDF](https://github.com/OshriHalimi/unsupervised_learning_of_dense_shape_correspondence)] 
 
 **Unsupervised Deep Learning for Structured Shape Matching.**<br>
