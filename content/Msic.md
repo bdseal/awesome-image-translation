@@ -27,6 +27,10 @@ arxiv, 2019. [[PDF](https://arxiv.org/abs/1912.11258)] [[Github](https://github.
 
 ## Deep Learning on Embedded Systems
 
+**Fast-SCNN: Fast Semantic Segmentation Network.**<br>
+*Rudra P K Poudel, Stephan Liwicki, Roberto Cipolla.*<br>
+arxiv, 2 Feb 2019. [[PDF](https://arxiv.org/abs/1902.04502)] [[Github](https://github.com/DeepVoltaire/Fast-SCNN)] [[PyTorch](https://github.com/Tramac/Fast-SCNN-pytorch)]
+
 **SqueezeWave: Extremely Lightweight Vocoders for On-device Speech Synthesis.**<br>
 *Bohan Zhai, Tianren Gao, Flora Xue, Daniel Rothchild, Bichen Wu, Joseph E. Gonzalez, Kurt Keutzer.*<br>
 arxiv, 16 Jan 2020. [[PDF]](https://arxiv.org/abs/2001.05685)

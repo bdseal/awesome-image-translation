@@ -134,6 +134,10 @@ ACM Trans. Graphics (Proc. SIGGRAPH Asia) 2016. [[PDF](http://files.is.tue.mpg.d
 
 ### Msic (Face, Object)
 
+**Multi-layer Depth and Epipolar Feature Transformers for 3D Scene Reconstruction.** <br>
+*Daeyun Shin, Zhile Ren, Erik B. Sudderth, Charless C. Fowlkes.* <br>
+CVPR 2019. [[PDF](http://openaccess.thecvf.com/content_CVPRW_2019/papers/SUMO/Shin_Multi-layer_Depth_and_Epipolar_Feature_Transformers_for_3D_Scene_Reconstruction_CVPRW_2019_paper.pdf)]
+
 **SDFDiff: Differentiable Rendering of Signed Distance Fields for 3D Shape Optimization.** <br>
 *Yue Jiang, Dantong Ji, Zhizhong Han, Matthias Zwicker.*<br>
 arxiv, 15 Dec 2019. [[PDF](https://arxiv.org/abs/1912.07109)]
@@ -361,6 +365,10 @@ CVPR 2015. [[PDF](https://www.cv-foundation.org/openaccess/content_cvpr_2015/pap
 
 ## Depth From Video (Depth, Normal and Camera Motion Estimation)
 
+**DeepFactors: Real-Time Probabilistic Dense Monocular SLAM.**<br>
+*Jan Czarnowski, Tristan Laidlow, Ronald Clark, Andrew J. Davison.*<br>
+arxiv, 14 Jan 2020. [[PDF](https://arxiv.org/abs/2001.05049)] [[Github](https://github.com/jczarnowski/DeepFactors)]
+
 **DIODE: A Dense Indoor and Outdoor DEpth Dataset.**<br>
 *Igor Vasiljevic, Nick Kolkin, Shanyi Zhang, Ruotian Luo, Haochen Wang, Falcon Z. Dai, Andrea F. Daniele, Mohammadreza Mostajabi, Steven Basart, Matthew R. Walter, Gregory Shakhnarovich.*<br>
 CVPR 2020. 
@@ -368,7 +376,6 @@ CVPR 2020.
 [[Project](diode-dataset.org)] 
 [[Github](github.com/diode-dataset/)]
 [[Frontiers of Monocular 3D Perception | Workshop CVPR 2020 ](https://sites.google.com/view/mono3d-workshop/home)]
-
 
 **Joint Graph-based Depth Refinement and Normal Estimation.**<br>
 *Mattia Rossi, Mireille El Gheche, Andreas Kuhn, Pascal Frossard.*<br>

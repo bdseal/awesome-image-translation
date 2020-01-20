@@ -164,10 +164,24 @@ Xiaogang Xu, Ying-Cong Chen, Jiaya Jia.* <br>
 ICCV 2019. [[PDF](http://openaccess.thecvf.com/content_ICCV_2019/papers/Xu_View_Independent_Generative_Adversarial_Network_for_Novel_View_Synthesis_ICCV_2019_paper.pdf)]
 
 **DNR: A Neural Rendering Framework for Free-Viewpoint Relighting.** <br>
-*Zhang Chen, Anpei Chen, Guli Zhang, Chengyuan Wang, Yu Ji, Kiriakos N. Kutulakos, Jingyi Yu.* <br>
+*Zhang Chen, Anpei Chen, Guli Zhang, Chengyuan Wang, Yu Ji, Kiriakos N. Kutulakos, Jingyi Yu.*<br>
 arxiv, 26 Nov 2019.
 
+## Time-Lapse Videos or Future Generation
+
+**Learning to Generate Time-Lapse Videos Using Multi-Stage Dynamic Generative Adversarial Networks.**<br>
+*[Wei Xiong](https://wxiong.me/), Wenhan Luo, Lin Ma, Wei Liu, Jiebo Luo.*<br>
+CVPR 2018. [[PDF](https://arxiv.org/abs/1709.07592)] [[Github](https://github.com/weixiong-ur/mdgan)] [[Dataset](https://drive.google.com/open?id=1xWLiU-MBGN7MrsFHQm4_yXmfHBsMbJQo)] [[Project](https://sites.google.com/site/whluoimperial/mdgan)]
+
+**Visual Dynamics: Stochastic Future Generation via Layered Cross Convolutional Networks.**<br>
+*[Tianfan Xue](http://people.csail.mit.edu/tfxue/research_statement_tianfan.pdf), Jiajun Wu, Katherine L. Bouman, William T. Freeman.*<br>
+TPAMI 2019 / NeurIPS 2016. [[PDF](https://arxiv.org/abs/1807.09245)] [[Project](visualdynamics.csail.mit.edu)] [[Github](https://github.com/tfxue/visual-dynamics)]
+
 ## Motion Transfer & Retargeting & Reenactment & Dubbing & Animation
+
+**Deferred Neural Rendering: Image Synthesis using Neural.**<br>
+*Justus Thies, Michael Zollhöfer, Matthias Nießner.*<br>
+SIGGRAPH 2019. [[](https://arxiv.org/abs/1904.12356)]
 
 **LOGAN: Unpaired Shape Transform in Latent Overcomplete Space.**<br>
 *Kangxue Yin, Zhiqin Chen, Hui Huang, Daniel Cohen-Or, Hao Zhang.*<br>
