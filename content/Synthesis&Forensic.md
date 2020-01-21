@@ -50,6 +50,7 @@ Eurographics 2019. [[PDF](https://arxiv.org/pdf/1808.06847.pdf)]
 
 ## DeepFake and Forensic
 
+[[FaceForensics Benchmark](http://kaldir.vc.in.tum.de/faceforensics_benchmark/)]
 [[awesome-deepfakes-materials](https://github.com/datamllab/awesome-deepfakes-materials)]
 
 **DeeperForensics-1.0: A Large-Scale Dataset for Real-World Face Forgery Detection.**<br>
@@ -94,6 +95,20 @@ ICCV, 2019.
 **FaceForensics++: Learning to Detect Manipulated Facial Images.**<br>
 *[Andreas Rössler](http://www.niessnerlab.org/members/andreas_roessler/profile.html), Davide Cozzolino, Luisa Verdoliva, Christian Riess, Justus Thies, [Matthias Nießner](http://www.niessnerlab.org/members/matthias_niessner/profile.html).*<br>
 [[PDF](https://arxiv.org/abs/1901.08971)] [[Github](https://github.com/ondyari/FaceForensics)] [[Homepage & Dataset](http://www.niessnerlab.org/projects/roessler2018faceforensics.html)] [[Face Forensics  Image Recognition Suite](http://faceforensics.com/)]
+
+## Image-Based Virtual Try-On
+
+**TailorGAN: Making User-Defined Fashion Designs.**<br>
+*Lele Chen, Justin Tian, Guo Li, Cheng-Haw Wu, Erh-Kan King, Kuan-Ting Chen, Shao-Hang Hsieh.*<br>
+arxiv, 17 Jan 2019. [[PDF](https://arxiv.org/abs/2001.06427)]
+
+**SieveNet: A Unified Framework for Robust Image-Based Virtual Try-On.**<br>
+*Surgan Jandial, Ayush Chopra, Kumar Ayush, Mayur Hemani, Abhijeet Kumar, Balaji Krishnamurthy.*<br>
+arxiv, 17 Jan 2019. [[PDF](https://arxiv.org/abs/2001.06265)]
+
+**Generating High-Resolution Fashion Model Images Wearing Custom Outfits.**<br> 
+*Gökhan Yildirim, Nikolay Jetchev, Roland Vollgraf, Urs Bergmann.*<br> 
+Workshop on Computer Vision for Fashion, Art and Design, ICCV 2019. [[PDF](https://arxiv.org/abs/1908.09638)] 
 
 ## Multi-Modality Translation
 
@@ -176,6 +191,10 @@ CVPR 2018. [[PDF](https://arxiv.org/abs/1709.07592)] [[Github](https://github.co
 **Visual Dynamics: Stochastic Future Generation via Layered Cross Convolutional Networks.**<br>
 *[Tianfan Xue](http://people.csail.mit.edu/tfxue/research_statement_tianfan.pdf), Jiajun Wu, Katherine L. Bouman, William T. Freeman.*<br>
 TPAMI 2019 / NeurIPS 2016. [[PDF](https://arxiv.org/abs/1807.09245)] [[Project](visualdynamics.csail.mit.edu)] [[Github](https://github.com/tfxue/visual-dynamics)]
+
+**Super SloMo: High Quality Estimation of Multiple Intermediate Frames for Video Interpolation.**<br>
+*[Huaizu Jiang(http://jianghz.me/), [Deqing Sun](http://research.nvidia.com/person/deqing-sun), Varun Jampani, Ming-Hsuan Yang, Erik Learned-Miller, Jan Kautz.*<br>
+CVPR 2018. [[PDF](https://arxiv.org/abs/1712.00080)] [[Project](https://people.cs.umass.edu/~hzjiang/projects/superslomo/)] [[Github](https://github.com/avinashpaliwal/Super-SloMo)]
 
 ## Motion Transfer & Retargeting & Reenactment & Dubbing & Animation
 
