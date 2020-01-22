@@ -521,10 +521,14 @@ SIGGRAPH 2019. [[PDF](https://research.fb.com/publications/vr-facial-animation-v
 [[accepted paper list](https://openreview.net/group?id=ICLR.cc/2020/Conference)]
 
 **U-GAT-IT: Unsupervised Generative Attentional Networks with Adaptive Layer-Instance Normalization for Image-to-Image Translation.**<br>
-*Junho Kim, Minjae Kim, Hyeonwoo Kang, Kwanghee Lee.* <br>
+*Junho Kim, Minjae Kim, Hyeonwoo Kang, Kwanghee Lee.*<br>
 ICLR 2020. [[PDF](https://arxiv.org/abs/1907.10830)] [[Official Tensorflow](https://github.com/taki0112/UGATIT)] [[Pytorch](https://github.com/znxlwm/UGATIT-pytorch)]
 
-### AAAI 2020
+### Others 2020
+
+**CDGAN: Cyclic Discriminative Generative Adversarial Networks for Image-to-Image Transformation.**<br>
+*Kancharagunta Kishan Babu, Shiv Ram Dubey.*<br>
+arxiv, 15 Jan 2020. [[PDF](https://arxiv.org/abs/2001.05489)]
 
 ### NeurIPS 2019 
 [[accepted paper list](https://nips.cc/Conferences/2019/AcceptedPapersInitial)]
@@ -540,7 +544,6 @@ Tristan Bepler, Ellen Zhong, Kotaro Kelley, Edward Brignole, Bonnie Berger.*
 
 **Learning to Predict Layout-to-image Conditional Convolutions for Semantic Image Synthesis.** [[PDF](https://arxiv.org/abs/1910.06809)]<br>
 *Xihui Liu, Guojun Yin, Jing Shao, Xiaogang Wang, Hongsheng Li.*
-
 
 ### ICCV 2019 
 [[accepted paper list](http://openaccess.thecvf.com/ICCV2019.py)]

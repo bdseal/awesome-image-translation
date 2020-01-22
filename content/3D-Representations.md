@@ -1,6 +1,6 @@
 # Learning 3D Representations From Natural Images
 
-This Repo is a collection of papers using image translation methods to learning 3D representations from natural images。
+This Repo is a collection of papers on learning 3D representations from natural images。
 
 ## 3D Shape Representation and Feature Embedding
 

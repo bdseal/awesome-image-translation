@@ -1,29 +1,9 @@
 
 # Msic
 
-## Free-Hand Sketch
+## Holistic 3D Vision
 
-**Deep Plastic Surgery: Robust and Controllable Image Editing with Human-Drawn Sketches.**<br>
-*Shuai Yang, Zhangyang Wang, Jiaying Liu, Zongming Guo.*<br>
-arxiv, 9 Jan 2020.
-[[PDF](https://arxiv.org/abs/2001.02890)]
-
-**Deep Learning for Free-Hand Sketch: A Survey.**<br>
-*Peng Xu.*<br>
-arxiv, 8 Jan 2020. [[PDF](https://arxiv.org/abs/2001.02600)]
-
-
-**Interactive Sketch & Fill: Multiclass Sketch-to-Image Translation.**<br>
-*[Arnab Ghosh](https://arnabgho.github.io/), [Richard Zhang](https://richzhang.github.io/), [Puneet K. Dokania](https://puneetkdokania.github.io/), [Oliver Wang](http://www.oliverwang.info/), [Alexei A. Efros](https://people.eecs.berkeley.edu/~efros/), [Philip H.S. Torr](http://www.robots.ox.ac.uk/~tvg/index.php), [Eli Shechtman](https://research.adobe.com/person/eli-shechtman/).*<br>
-ICCV 2019. [[PDF](https://arxiv.org/abs/1909.11081v2)] [[Github](https://arnabgho.github.io/iSketchNFill/)]
-
-**Examining Performance of Sketch-to-Image Translation Models with Multiclass Automatically Generated Paired Training Data.**<br>
-*Dichao Hu.*<br>
-arxiv, 2018. [[PDF](https://arxiv.org/abs/1811.00249)]
-
-**Multi-Graph Transformer for Free-Hand Sketch Recognition.**<br>
-*[Peng Xu](http://www.pengxu.net/), [Chaitanya K. Joshi](https://chaitjo.github.io/), [Xavier Bresson](https://www.ntu.edu.sg/home/xbresson/).*<br>
-arxiv, 2019. [[PDF](https://arxiv.org/abs/1912.11258)] [[Github](https://github.com/PengBoXiangShang/multigraph_transformer)]
+[[awesome-holistic-3d](https://github.com/holistic-3d/awesome-holistic-3d)]
 
 ## Deep Learning on Embedded Systems
 
@@ -38,11 +18,11 @@ arxiv, 16 Jan 2020. [[PDF]](https://arxiv.org/abs/2001.05685)
 **FastDepth: Fast Monocular Depth Estimation on Embedded Systems.**<br>
 *Diana Wofk, Fangchang Ma, Tien-Ju Yang, Sertac Karaman, Vivienne Sze.*<br>
 ICRA, 2019.
-[[Project](fastdepth.mit.edu)]
 [[PDF](http://fastdepth.mit.edu/2019_icra_fastdepth.pdf)]
+[[Project](fastdepth.mit.edu)]
 [[Github](https://github.com/dwofk/fast-depth)]
 
-**NetAdapt: Platform-Aware Neural Network Adaptation for Mobile Applications.** <br>
+**NetAdapt: Platform-Aware Neural Network Adaptation for Mobile Applications.**<br>
 *Tien-Ju Yang, Andrew Howard, Bo Chen, Xiao Zhang, Alec Go, Mark Sandler, Vivienne Sze, Hartwig Adam.*<br>
 ECCV, 2018.
 [[CVF](http://openaccess.thecvf.com/content_ECCV_2018/papers/Tien-Ju_Yang_NetAdapt_Platform-Aware_Neural_ECCV_2018_paper.pdf)]
@@ -71,7 +51,8 @@ CVPR 2019. [[PDF](http://openaccess.thecvf.com/content_CVPR_2019/papers/Zhang_Pa
 
 **Competitive Collaboration: Joint Unsupervised Learning of Depth, Camera Motion, Optical Flow and Motion Segmentation.**<br>
 *Anurag Ranjan, [Varun Jampani](https://varunjampani.github.io/), Lukas Balles, Kihwan Kim, Deqing Sun, Jonas Wulff, Michael J. Black.*<br>
-CVPR 2019. [[PDF](http://openaccess.thecvf.com/content_CVPR_2019/papers/Ranjan_Competitive_Collaboration_Joint_Unsupervised_Learning_of_Depth_Camera_Motion_Optical_CVPR_2019_paper.pdf)]
+CVPR 2019. 
+[[PDF](http://openaccess.thecvf.com/content_CVPR_2019/papers/Ranjan_Competitive_Collaboration_Joint_Unsupervised_Learning_of_Depth_Camera_Motion_Optical_CVPR_2019_paper.pdf)]
 [[Github](http://github.com/anuragranj/cc)]
 
 ## Learning Temporal Information from Videos
@@ -108,17 +89,17 @@ ICCV, 2019. [[PDF](https://arxiv.org/abs/1908.03706.pdf)] [[Project](https://tin
 
 **3D Human Pose Estimation in Video with Temporal Convolutions and Semi-supervised Training.**<br>
 *Dario Pavllo, Christoph Feichtenhofer, David Grangier, Michael Auli.*<br>
-CVPR 2019. [[PDF](http://openaccess.thecvf.com/content_CVPR_2019/papers/Pavllo_3D_Human_Pose_Estimation_in_Video_With_Temporal_Convolutions_and_CVPR_2019_paper.pdf)] [[Github](https://github.com/
-facebookresearch/VideoPose3D)] [[Project](https://dariopavllo.github.io/VideoPose3D
-)]
+CVPR 2019. 
+[[PDF](http://openaccess.thecvf.com/content_CVPR_2019/papers/Pavllo_3D_Human_Pose_Estimation_in_Video_With_Temporal_Convolutions_and_CVPR_2019_paper.pdf)] 
+[[Github](https://github.com/facebookresearch/VideoPose3D)] [[Project](https://dariopavllo.github.io/VideoPose3D)]
 
 ## Reciprocal Computer Vision Tasks
 
-**DSNet: Joint Learning for Scene Segmentation and Disparity Estimation** <br>
-*Wujing Zhan, Xinqi Ou, Yunyi Yang and Long Chen* <br>
+**DSNet: Joint Learning for Scene Segmentation and Disparity Estimation.**<br>
+*Wujing Zhan, Xinqi Ou, Yunyi Yang and Long Chen.*<br>
 ICRA 2019. [[PDF](https://ieeexplore.ieee.org/document/8793573)] 
 
-**Real-Time Joint Semantic Segmentation and Depth Estimation Using Asymmetric Annotations** <br> 
+**Real-Time Joint Semantic Segmentation and Depth Estimation Using Asymmetric Annotations.** <br> 
 *Vladimir Nekrasov, Thanuja Dharmasiri, Andrew Spek, Tom Drummond, Chunhua Shen, Ian Reid.*<br> 
 ICRA 2019. [[PDF](https://ieeexplore.ieee.org/document/8794220)]
 
@@ -126,7 +107,7 @@ ICRA 2019. [[PDF](https://ieeexplore.ieee.org/document/8794220)]
 *Shaoru Wang, Yongchao Gong, Junliang Xing, Lichao Huang, Chang Huang, Weiming Hu.* <br>
 AAAI 2020. [[PDF](https://arxiv.org/abs/1912.05070)] [[Github](https://github.com/wangsr126/RDSNet)]
 
-**MOTSFusion: Track to Reconstruct and Reconstruct to Track.** <br>
+**MOTSFusion: Track to Reconstruct and Reconstruct to Track.**<br>
 *Jonathon Luiten, Tobias Fischer, Bastian Leibe.*<br>
 [[PDF](https://arxiv.org/abs/1910.00130v1)] [[Github](https://github.com/tobiasfshr/MOTSFusion)]
 
@@ -142,7 +123,9 @@ ICLR 2020.  [[PDF](https://arxiv.org/abs/1910.00935)] [[Github](https://github.c
 
 **GarNet: A Two-Stream Network for Fast and Accurate 3D Cloth Draping.**<br>
 *[Erhan Gundogdu](https://egundogdu.github.io/), Victor Constantin, Amrollah Seifoddini, Minh Dang, Mathieu Salzmann, Pascal Fua.*<br>
-ICCV 2019. [[PDF](https://arxiv.org/abs/1811.10983)] [[Supplementary Material](https://www.epfl.ch/labs/cvlab/wp-content/uploads/2019/04/GarNet_supplementary.pdf)] [[Project](https://cvlab.epfl.ch/research/garment-simulation/garnet/)] [[Dataset](https://drive.switch.ch/index.php/s/7mAk9SoZ7J4uokt)]
+ICCV 2019. 
+[[PDF](https://arxiv.org/abs/1811.10983)] [[Supplementary Material](https://www.epfl.ch/labs/cvlab/wp-content/uploads/2019/04/GarNet_supplementary.pdf)] 
+[[Project](https://cvlab.epfl.ch/research/garment-simulation/garnet/)] [[Dataset](https://drive.switch.ch/index.php/s/7mAk9SoZ7J4uokt)]
 
 ## 3D Clothing Draping & 3D People Dressing
 
@@ -241,7 +224,7 @@ CVPR 2018. [[PDF](https://arxiv.org/abs/1712.06087)][[GIthub](https://github.com
 
 **ZIllumination Robust Monocular Direct Visual Odometry for Outdoor Environment Mapping.**<br>
 *ZXiaolong Wu and Cedric Pradalier.*<br>
-ICRA 2019.
+ICRA 2019. [[PDF](https://hal.archives-ouvertes.fr/hal-01876700/document)]
 
 
 

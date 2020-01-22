@@ -1,3 +1,5 @@
+# Controlable Image Generation
+
 ## Diving Deep into Image Synthesis
 
 **StyleGAN2: Analyzing and Improving the Image Quality of StyleGAN.**<br>
@@ -61,6 +63,10 @@ arxiv, 9 Jan 2020.
 [[DeeperForensics-1.0 Dataset](https://github.com/EndlessSora/DeeperForensics-1.0)]
 [[PDF](https://github.com/EndlessSora/DeeperForensics-1.0)]
 
+**FaceForensics++: Learning to Detect Manipulated Facial Images.**<br>
+*[Andreas Rössler](http://www.niessnerlab.org/members/andreas_roessler/profile.html), Davide Cozzolino, Luisa Verdoliva, Christian Riess, Justus Thies, [Matthias Nießner](http://www.niessnerlab.org/members/matthias_niessner/profile.html).*<br>
+[[PDF](https://arxiv.org/abs/1901.08971)] [[Github](https://github.com/ondyari/FaceForensics)] [[Homepage & Dataset](http://www.niessnerlab.org/projects/roessler2018faceforensics.html)] [[Face Forensics  Image Recognition Suite](http://faceforensics.com/)]
+
 **Face X-ray for More General Face Forgery Detection.**<br>
 *Lingzhi Li, Jianmin Bao, Ting Zhang, Hao Yang, Dong Chen, Fang Wen, Baining Guo.*<br>
 arrive, 31 Dec 2019. [[PDF](https://arxiv.org/abs/1912.13458)]
@@ -92,9 +98,9 @@ arxiv, 2019.
 ICCV, 2019.
 [[PDF](https://arxiv.org/abs/1912.11035)]  [[Code](https://github.com/peterwang512/CNNDetection)]  [[Project](https://peterwang512.github.io/CNNDetection/)] [[Adobe Max](https://youtu.be/21lj8tCSMkg)]
 
-**FaceForensics++: Learning to Detect Manipulated Facial Images.**<br>
-*[Andreas Rössler](http://www.niessnerlab.org/members/andreas_roessler/profile.html), Davide Cozzolino, Luisa Verdoliva, Christian Riess, Justus Thies, [Matthias Nießner](http://www.niessnerlab.org/members/matthias_niessner/profile.html).*<br>
-[[PDF](https://arxiv.org/abs/1901.08971)] [[Github](https://github.com/ondyari/FaceForensics)] [[Homepage & Dataset](http://www.niessnerlab.org/projects/roessler2018faceforensics.html)] [[Face Forensics  Image Recognition Suite](http://faceforensics.com/)]
+**Fighting Fake News: Image Splice Detection via Learned Self-Consistency.**<br>
+*Minyoung Huh, Andrew Liu, Andrew Owens, Alexei A. Efros.*<br>
+ECCV 2018. [[Github](https://github.com/minyoungg/selfconsistency)] [[Project](https://minyoungg.github.io/selfconsistency/)]
 
 ## Image-Based Virtual Try-On
 
@@ -109,6 +115,29 @@ arxiv, 17 Jan 2019. [[PDF](https://arxiv.org/abs/2001.06265)]
 **Generating High-Resolution Fashion Model Images Wearing Custom Outfits.**<br> 
 *Gökhan Yildirim, Nikolay Jetchev, Roland Vollgraf, Urs Bergmann.*<br> 
 Workshop on Computer Vision for Fashion, Art and Design, ICCV 2019. [[PDF](https://arxiv.org/abs/1908.09638)] 
+
+## Free-Hand Sketch
+
+**Deep Plastic Surgery: Robust and Controllable Image Editing with Human-Drawn Sketches.**<br>
+*Shuai Yang, Zhangyang Wang, Jiaying Liu, Zongming Guo.*<br>
+arxiv, 9 Jan 2020.
+[[PDF](https://arxiv.org/abs/2001.02890)]
+
+**Deep Learning for Free-Hand Sketch: A Survey.**<br>
+*Peng Xu.*<br>
+arxiv, 8 Jan 2020. [[PDF](https://arxiv.org/abs/2001.02600)]
+
+**Interactive Sketch & Fill: Multiclass Sketch-to-Image Translation.**<br>
+*[Arnab Ghosh](https://arnabgho.github.io/), [Richard Zhang](https://richzhang.github.io/), [Puneet K. Dokania](https://puneetkdokania.github.io/), [Oliver Wang](http://www.oliverwang.info/), [Alexei A. Efros](https://people.eecs.berkeley.edu/~efros/), [Philip H.S. Torr](http://www.robots.ox.ac.uk/~tvg/index.php), [Eli Shechtman](https://research.adobe.com/person/eli-shechtman/).*<br>
+ICCV 2019. [[PDF](https://arxiv.org/abs/1909.11081v2)] [[Github](https://arnabgho.github.io/iSketchNFill/)]
+
+**Examining Performance of Sketch-to-Image Translation Models with Multiclass Automatically Generated Paired Training Data.**<br>
+*Dichao Hu.*<br>
+arxiv, 2018. [[PDF](https://arxiv.org/abs/1811.00249)]
+
+**Multi-Graph Transformer for Free-Hand Sketch Recognition.**<br>
+*[Peng Xu](http://www.pengxu.net/), [Chaitanya K. Joshi](https://chaitjo.github.io/), [Xavier Bresson](https://www.ntu.edu.sg/home/xbresson/).*<br>
+arxiv, 2019. [[PDF](https://arxiv.org/abs/1912.11258)] [[Github](https://github.com/PengBoXiangShang/multigraph_transformer)]
 
 ## Multi-Modality Translation
 
