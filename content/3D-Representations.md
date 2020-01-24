@@ -53,6 +53,21 @@ SIGGRAPH 2019. [[PDF](https://arxiv.org/abs/1906.07751)]
 *Gengshan Yang, Deva Ramanan.*<br>
 NeurIPS 2019. [[PDF](http://www.contrib.andrew.cmu.edu/~gengshay/wordpress/wp-content/uploads/2019/11/vcn.pdf)] [[GitHub](https://github.com/gengshan-y/VCN)] [[Project](http://www.contrib.andrew.cmu.edu/~gengshay/neurips19flow)]
 
+
+## Representation of motion
+
+**On the Continuity of Rotation Representations in Neural Networks.**<br>
+*Yi Zhou, Connelly Barnes, Jingwan Lu, Jimei Yang, Hao Li.*<br>
+CVPR 2019. [[PDF](https://arxiv.org/abs/1812.07035)]
+
+Sparse Representations for Object and Ego-motion Estimation in Dynamic Scenes.*<br>
+Hirak J Kashyap, Charless Fowlkes, Jeffrey L Krichmar.*<br>
+[[PDF](https://arxiv.org/abs/1903.03731v1)]
+
+CeMNet: Self-supervised Learning For Accurate Continuous Ego-Motion Estimation.*<br>
+Minhaeng Lee, Charless C. Fowlkes.*<br>
+CVPRW, 2019. [[PDF](https://arxiv.org/abs/1806.10309v1)]
+
 ## Surface Cuts and Parameterization 
 
 **OptCuts: Joint Optimization of Surface Cuts and Parameterization.**<br>

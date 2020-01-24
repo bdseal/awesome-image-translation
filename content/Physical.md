@@ -255,6 +255,10 @@ IJCV 2018. [[BIP Dataset](https://gravis.dmi.unibas.ch/PMM/data/bip/)] [[PDF](ht
 
 ## Depth From Video (Depth, Normal and Camera Motion Estimation)
 
+**Self-supervised Object Motion and Depth Estimation from Video.**<br>
+*Qi Dai, Vaishakh Patil, Simon Hecker, Dengxin Dai, Luc Van Gool, Konrad Schindler.*<br>
+arxiv, Dec 2019. [[PDF](https://arxiv.org/abs/1912.04250)]
+
 **DeepFactors: Real-Time Probabilistic Dense Monocular SLAM.**<br>
 *Jan Czarnowski, Tristan Laidlow, Ronald Clark, Andrew J. Davison.*<br>
 arxiv, 14 Jan 2020. [[PDF](https://arxiv.org/abs/2001.05049)] [[Github](https://github.com/jczarnowski/DeepFactors)]
