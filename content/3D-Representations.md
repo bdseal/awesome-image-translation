@@ -54,7 +54,9 @@ SIGGRAPH 2019. [[PDF](https://arxiv.org/abs/1906.07751)]
 NeurIPS 2019. [[PDF](http://www.contrib.andrew.cmu.edu/~gengshay/wordpress/wp-content/uploads/2019/11/vcn.pdf)] [[GitHub](https://github.com/gengshan-y/VCN)] [[Project](http://www.contrib.andrew.cmu.edu/~gengshay/neurips19flow)]
 
 
-## Representation of motion
+## Representation of Motion
+
+[[6D Pose](https://zhuanlan.zhihu.com/p/94020758?utm_source=wechat_session&utm_medium=social&utm_oi=28410831175680)]
 
 **On the Continuity of Rotation Representations in Neural Networks.**<br>
 *Yi Zhou, Connelly Barnes, Jingwan Lu, Jimei Yang, Hao Li.*<br>

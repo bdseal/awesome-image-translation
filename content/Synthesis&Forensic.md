@@ -18,6 +18,10 @@ CVPR 2019.
 [[Code](https://github.com/NVlabs/stylegan)]
 [[FFHQ](https://github.com/NVlabs/ffhq-dataset)]
 
+**Overcoming the Disentanglement vs Reconstruction Trade-off via Jacobian Supervision.**<br>
+*[José Lezama](https://iie.fing.edu.uy/~jlezama/).* <br>
+ICLR 2019. [[PDF](https://openreview.net/pdf?id=Hkg4W2AcFm)] [[Github](https://github.com/jlezama/disentangling-jacobian)]
+
 **SinGAN: Learning a Generative Model from a Single Natural Image.**<br>
 *Tamar Rott Shaham, Tali Dekel, Tomer Michaeli.*<br>
 ICCV 2019 (Best Paper). 
@@ -186,6 +190,11 @@ arxiv, 20 Nov 2019. [[PDF](https://arxiv.org/abs/1911.12760v1)]
 
 ## Novel-View Synthesis
 [Novel-View Synthesis](https://paperswithcode.com/task/novel-view-synthesis/codeless)
+
+**SynSin: End-to-end View Synthesis from a Single Image.**<br>
+*Georgia Gkioxari, Jitendra Malik, Justin Johnson.*<br>
+ICCV 2019. [[PDF](https://arxiv.org/abs/1912.08804)]
+[[GitHub](https://github.com/facebookresearch/meshrcnn)]
 
 **IGNOR: Image-guided Neural Object Rendering.**<br>
 *Justus Thies, Michael Zollhöfer, Christian Theobalt, Marc Stamminger, Matthias Nießner.*<br>

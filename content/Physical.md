@@ -9,6 +9,53 @@ A collection of papers on inferring the physical world (shape, depth, motion, pa
 *Ye Yu, William A. P. Smith.*<br>
 CVPR 2019. [[PDF](http://openaccess.thecvf.com/content_CVPR_2019/html/Yu_InverseRenderNet_Learning_Single_Image_Inverse_Rendering_CVPR_2019_paper.html)] [[Github](https://github.com/YeeU/InverseRenderNet)] [[IIW Dataset](http://opensurfaces.cs.cornell.edu/publications/intrinsic/#download)] 
 
+## Light, Reflectance and llluminance
+
+**Generating Digital Painting Lighting Effects via RGB-space Geometry.**<br>
+*Lvmin Zhang, Edgar Simo-Serra, Yi Ji, and Chunping Liu.*<br>
+SIGGRAPH 2020 (TOG 2020).
+[[Priject](https://lllyasviel.github.io/PaintingLight/)]
+[[Github](https://github.com/lllyasviel/PaintingLight)]
+
+**Illumination Decomposition for Photograph with Multiple Light Sources.** <br>
+*Ling Zhang, Qingan Yan, Zheng Liu, Hua Zou, Chunxia Xiao.* <br>
+TIP 2017. [[PDF](https://yanqingan.github.io/docs/tip17_illumination.pdf)] [[Github](https://github.com/yanqingan/Illumination_Decomposition)]
+
+**Learning to Predict Indoor Illumination from a Single Image.** <br>
+*Marc-André Gardner, [Kalyan Sunkavalli](https://research.adobe.com/person/kalyan-sunkavalli/), [Ersin Yumer](https://research.adobe.com/person/ersin-yumer/), [Xiaohui Shen](https://research.adobe.com/person/xiaohui-shen/), Emiliano Gambaretto, [Christian Gagné](http://vision.gel.ulaval.ca/~cgagne/), and [Jean-François Lalonde](http://vision.gel.ulaval.ca/~jflalonde/).*<br>
+ACM Transactions on Graphics (SIGGRAPH Asia), 2017. [[PDF](https://arxiv.org/abs/1704.00090)] [[Dataset](http://indoor.hdrdb.com/)] [[Homepage](vision.gel.ulaval.ca/~jflalonde/projects/deepIndoorLight)]
+
+**Deep Parametric Indoor Lighting Estimation.** <br>
+*Marc-André Gardner, Yannick Hold-Geoffroy, Kalyan Sunkavalli, Christian Gagné, and Jean-François Lalonde.* <br>
+ICCV 2019. [[PDF](https://arxiv.org/abs/1910.08812)] [[Supplementary material](https://lvsn.github.io/deepparametric/supplementary/index.html)] [[Laval Indoor HDR Database](http://indoor.hdrdb.com/) and [Depth](http://indoordepth.hdrdb.com/)] [[Project](https://lvsn.github.io/deepparametric/)] 
+
+**Fast Spatially-Varying Indoor Lighting Estimation.**<br>
+*Mathieu Garon, Kalyan Sunkavalli, Sunil Hadap, Nathan Carr, [Jean-François Lalonde](http://www.jflalonde.ca/).* <br>
+CVPR 2019. [[PDF](https://arxiv.org/abs/1906.03799)] [[Supplementary material](https://lvsn.github.io/fastindoorlight/supplementary/index.html)] [[Project](https://lvsn.github.io/fastindoorlight/)] [[Lavel Indoor Spatially Varying HDR Dataset / 79 HDR Light Probes](http://indoorsv.hdrdb.com/)]
+
+**GLoSH: Global-Local Spherical Harmonics for Intrinsic Image Decomposition.** <br>
+*[Hao Zhou](http://zhhoper.github.io), Xiang Yu, David W Jacobs.* <br>
+ICCV 2019. [[PDF](https://zhhoper.github.io/paper/zhou_ICCV2019_IID.pdf)] [[Supplement](https://zhhoper.github.io/paper/zhou_ICCV_2019_IID_sup.pdf)] [[Poster](https://zhhoper.github.io/poster/Poster_ICCV_2019_IID.pdf)] [[Spherical Harmonic Tools](shtools.github.io/SHTOOLS)]
+
+**Deep Single-Image Portrait Relighting.**<br>
+*Hao Zhou, Sunil Hadap, Kalyan Sunkavalli, David W. Jacobs.* <br>
+ICCV 2019. [[PDF](https://arxiv.org/pdf/1905.00824)] [[Github](https://github.com/zhhoper/DPR)] [[Project](https://zhhoper.github.io/dpr.html)] [[DPR Dataset](https://drive.google.com/drive/folders/10luekF8vV5vo2GFYPRCe9Rm2Xy2DwHkT?usp=sharing)]
+
+**Single Image Portrait Relighting.**<br>
+*[Tiancheng Sun](http://kevinkingo.com/), Jonathan T. Barron, Yun-Ta Tsai, Zexiang Xu, Xueming Yu, Graham Fyffe, Christoph Rhemann, Jay Busch, Paul Debevec, [Ravi Ramamoorthi](https://cseweb.ucsd.edu/~ravir/).*<br> 
+SIGGRAPH 2019. [[PDF](https://arxiv.org/abs/1905.00824)]
+
+**Multi-view Relighting using a Geometry-Aware Network Paper Abstract Author Preprint Paper Video.**<br>
+*Julien Philip, Michael Gharbi, Tinghui Zhou, Alexei (Alyosha) Efros, George Drettakis.*<br>
+
+**SfSNet: Learning Shape, Reflectance and llluminance of Faces in the Wild.**<br>
+*Soumyadip Sengupta, Angjoo Kanazawa, Carlos D. Castillo, David W. Jacobs.* <br>
+CVPR 2018. [[Project](https://senguptaumd.github.io/SfSNet/)] [[PDF](https://arxiv.org/abs/1703.10131)] [[Github](https://github.com/matansel/pix2vertex)]
+
+**Occlusion-aware 3D Morphable Models and an Illumination Prior for Face Image Analysis.** <br>
+*Bernhard Egger, Sandro Schoenborn, Andreas Schneider, Adam Kortylewski, Andreas Morel-Forster, Clemens Blumer and Thomas Vetter.*<br>
+IJCV 2018. [[BIP Dataset](https://gravis.dmi.unibas.ch/PMM/data/bip/)] [[PDF](http://gravis.dmi.unibas.ch/publications/2018/2018_Egger_IJCV.pdf)]
+
 ## Clothed People Digitalization
 
 **Textured Neural Avatars.**<br>
@@ -211,47 +258,6 @@ ECCV 2018. [[PDF](https://www.gcc.tu-darmstadt.de/media/gcc/papers/Waechter-2014
 **Unsupervised Texture Transfer from Images to Model Collections.** <br>
 *Y. Wang, [Hao Su](http://ai.ucsd.edu/~haosu/), Qixing Huang, Jingwei Huang, Leonidas J. Guibas, Niloy J. J. Mitra.* <br>
 SIGGRAPH Asia 2016. [[PDF](http://ai.ucsd.edu/~haosu/papers/siga16.texture_transfer_small.pdf)]
-
-## Light, Reflectance and llluminance
-
-**Illumination Decomposition for Photograph with Multiple Light Sources.** <br>
-*Ling Zhang, Qingan Yan, Zheng Liu, Hua Zou, Chunxia Xiao.* <br>
-TIP 2017. [[PDF](https://yanqingan.github.io/docs/tip17_illumination.pdf)] [[Github](https://github.com/yanqingan/Illumination_Decomposition)]
-
-**Learning to Predict Indoor Illumination from a Single Image.** <br>
-*Marc-André Gardner, [Kalyan Sunkavalli](https://research.adobe.com/person/kalyan-sunkavalli/), [Ersin Yumer](https://research.adobe.com/person/ersin-yumer/), [Xiaohui Shen](https://research.adobe.com/person/xiaohui-shen/), Emiliano Gambaretto, [Christian Gagné](http://vision.gel.ulaval.ca/~cgagne/), and [Jean-François Lalonde](http://vision.gel.ulaval.ca/~jflalonde/).*<br>
-ACM Transactions on Graphics (SIGGRAPH Asia), 2017. [[PDF](https://arxiv.org/abs/1704.00090)] [[Dataset](http://indoor.hdrdb.com/)] [[Homepage](vision.gel.ulaval.ca/~jflalonde/projects/deepIndoorLight)]
-
-**Deep Parametric Indoor Lighting Estimation.** <br>
-*Marc-André Gardner, Yannick Hold-Geoffroy, Kalyan Sunkavalli, Christian Gagné, and Jean-François Lalonde.* <br>
-ICCV 2019. [[PDF](https://arxiv.org/abs/1910.08812)] [[Supplementary material](https://lvsn.github.io/deepparametric/supplementary/index.html)] [[Laval Indoor HDR Database](http://indoor.hdrdb.com/) and [Depth](http://indoordepth.hdrdb.com/)] [[Project](https://lvsn.github.io/deepparametric/)] 
-
-**Fast Spatially-Varying Indoor Lighting Estimation.**<br>
-*Mathieu Garon, Kalyan Sunkavalli, Sunil Hadap, Nathan Carr, [Jean-François Lalonde](http://www.jflalonde.ca/).* <br>
-CVPR 2019. [[PDF](https://arxiv.org/abs/1906.03799)] [[Supplementary material](https://lvsn.github.io/fastindoorlight/supplementary/index.html)] [[Project](https://lvsn.github.io/fastindoorlight/)] [[Lavel Indoor Spatially Varying HDR Dataset / 79 HDR Light Probes](http://indoorsv.hdrdb.com/)]
-
-**GLoSH: Global-Local Spherical Harmonics for Intrinsic Image Decomposition.** <br>
-*[Hao Zhou](http://zhhoper.github.io), Xiang Yu, David W Jacobs.* <br>
-ICCV 2019. [[PDF](https://zhhoper.github.io/paper/zhou_ICCV2019_IID.pdf)] [[Supplement](https://zhhoper.github.io/paper/zhou_ICCV_2019_IID_sup.pdf)] [[Poster](https://zhhoper.github.io/poster/Poster_ICCV_2019_IID.pdf)] [[Spherical Harmonic Tools](shtools.github.io/SHTOOLS)]
-
-**Deep Single-Image Portrait Relighting.**<br>
-*Hao Zhou, Sunil Hadap, Kalyan Sunkavalli, David W. Jacobs.* <br>
-ICCV 2019. [[PDF](https://arxiv.org/pdf/1905.00824)] [[Github](https://github.com/zhhoper/DPR)] [[Project](https://zhhoper.github.io/dpr.html)] [[DPR Dataset](https://drive.google.com/drive/folders/10luekF8vV5vo2GFYPRCe9Rm2Xy2DwHkT?usp=sharing)]
-
-**Single Image Portrait Relighting.**<br>
-*[Tiancheng Sun](http://kevinkingo.com/), Jonathan T. Barron, Yun-Ta Tsai, Zexiang Xu, Xueming Yu, Graham Fyffe, Christoph Rhemann, Jay Busch, Paul Debevec, [Ravi Ramamoorthi](https://cseweb.ucsd.edu/~ravir/).*<br> 
-SIGGRAPH 2019. [[PDF](https://arxiv.org/abs/1905.00824)]
-
-**Multi-view Relighting using a Geometry-Aware Network Paper Abstract Author Preprint Paper Video.**<br>
-*Julien Philip, Michael Gharbi, Tinghui Zhou, Alexei (Alyosha) Efros, George Drettakis.*<br>
-
-**SfSNet: Learning Shape, Reflectance and llluminance of Faces in the Wild.**<br>
-*Soumyadip Sengupta, Angjoo Kanazawa, Carlos D. Castillo, David W. Jacobs.* <br>
-CVPR 2018. [[Project](https://senguptaumd.github.io/SfSNet/)] [[PDF](https://arxiv.org/abs/1703.10131)] [[Github](https://github.com/matansel/pix2vertex)]
-
-**Occlusion-aware 3D Morphable Models and an Illumination Prior for Face Image Analysis.** <br>
-*Bernhard Egger, Sandro Schoenborn, Andreas Schneider, Adam Kortylewski, Andreas Morel-Forster, Clemens Blumer and Thomas Vetter.*<br>
-IJCV 2018. [[BIP Dataset](https://gravis.dmi.unibas.ch/PMM/data/bip/)] [[PDF](http://gravis.dmi.unibas.ch/publications/2018/2018_Egger_IJCV.pdf)]
 
 ## Depth From Video (Depth, Normal and Camera Motion Estimation)
 
