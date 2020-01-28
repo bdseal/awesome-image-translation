@@ -143,51 +143,6 @@ arxiv, 2018. [[PDF](https://arxiv.org/abs/1811.00249)]
 *[Peng Xu](http://www.pengxu.net/), [Chaitanya K. Joshi](https://chaitjo.github.io/), [Xavier Bresson](https://www.ntu.edu.sg/home/xbresson/).*<br>
 arxiv, 2019. [[PDF](https://arxiv.org/abs/1912.11258)] [[Github](https://github.com/PengBoXiangShang/multigraph_transformer)]
 
-## Multi-Modality Translation
-
-[[Eurus-Holmes/Awesome-Multimodal-Research](https://github.com/Eurus-Holmes/Awesome-Multimodal-Research)]</br>
-[[pliang279/awesome-multimodal-ml](https://github.com/pliang279/awesome-multimodal-ml)]</br>
-
-### Text-to-Image
-
-**ControlGAN: Controllable Text-to-Image Generation.**<br>
-*Bowen Li, Xiaojuan Qi, Thomas Lukasiewicz, Philip H. S. Torr.*<br>
-NeurIPS 2019. [[PDF](https://papers.nips.cc/paper/8480-controllable-text-to-image-generation.pdf)] [[Github](https://github.com/mrlibw/ControlGAN)]
-
-**Object-driven Text-to-Image Synthesis via Adversarial Training.**<br>
-*Wenbo Li, Pengchuan Zhang, Lei Zhang, Qiuyuan Huang, Xiaodong He, Siwei Lyu, Jianfeng Gao.*<br>
-CVPR 2019. [[PDF](https://arxiv.org/abs/1902.10740)]
-
-### Voice-to-Image
-Speech2Face: Learning the Face Behind a Voice.
-Tae-Hyun Oh, Tali Dekel, Changil Kim, Inbar Mosseri, William T. Freeman, Michael Rubinstein, Wojciech Matusik.
-CVPR 2019. [[PDF](https://arxiv.org/abs/1905.09773)] [[project](https://speech2face.github.io/)] [[Related Work](https://speech2face.github.io/)]
-
-### Text-to-speech
-**Transfer Learning from Speaker Verification to Multispeaker Text-To-Speech Synthesis.**<br>
-*Ye Jia, Yu Zhang, Ron J. Weiss, Quan Wang, Jonathan Shen, Fei Ren, Zhifeng Chen, Patrick Nguyen, Ruoming Pang, Ignacio Lopez Moreno, Yonghui Wu.*<br>
-eurIPS 2018. [[PDF](https://arxiv.org/abs/1806.04558v4)] [[Github](https://github.com/CorentinJ/Real-Time-Voice-Cloning)] [[Github](https://github.com/Suhee05/Text-Independent-Speaker-Verification)]
-
-**In Other News: a Bi-style Text-to-speech Model for Synthesizing Newscaster Voice with Limited Data.**<br>
-*Nishant Prateek, Mateusz Łajszczak, Roberto Barra-Chicote, Thomas Drugman, Jaime Lorenzo-Trueba, Thomas Merritt, Srikanth Ronanki, Trevor Wood.*<br>
-NAACL. [[PDF](https://www.aclweb.org/anthology/N19-2026/)]
-
-**The Theory behind Controllable Expressive Speech Synthesis: a Cross-disciplinary Approach.**<br>
-*Noé Tits, Kevin El Haddad, Thierry Dutoit.*<br>
-arxiv, 14 Oct 2019. IntechOpen. [[PDF](https://arxiv.org/abs/1910.06234v1)]
-
-**Token-Level Ensemble Distillation for Grapheme-to-Phoneme Conversion.**<br>
-*Hao Sun, Xu Tan, Jun-Wei Gan, Hongzhi Liu, Sheng Zhao, Tao Qin, Tie-Yan Liu.*<br>
-interspeech 2019. [[PDF](https://arxiv.org/abs/1911.06573v1)] 
-
-**Independent and Automatic Evaluation of Acoustic-to-Articulatory Inversion Models.**<br>
-*Maud Parrot, Juliette Millet, Ewan Dunbar.*<br>
-arxiv, 15 Nov 2019. [[PDF](https://arxiv.org/pdf/1911.06573v1.pdf)]
-
-**Using VAEs and Normalizing Flows for One-shot Text-To-Speech Synthesis of Expressive Speech.**<br>
-*Vatsal Aggarwal, Marius Cotescu, Nishant Prateek, Jaime Lorenzo-Trueba, Roberto Barra-Chicote.*<br>
-arxiv, 20 Nov 2019. [[PDF](https://arxiv.org/abs/1911.12760v1)] 
-
 ## Novel-View Synthesis
 [Novel-View Synthesis](https://paperswithcode.com/task/novel-view-synthesis/codeless)
 
@@ -220,21 +175,9 @@ ICCV 2019. [[PDF](http://openaccess.thecvf.com/content_ICCV_2019/papers/Xu_View_
 *Zhang Chen, Anpei Chen, Guli Zhang, Chengyuan Wang, Yu Ji, Kiriakos N. Kutulakos, Jingyi Yu.*<br>
 arxiv, 26 Nov 2019.
 
-## Time-Lapse Videos or Future Generation
-
-**Learning to Generate Time-Lapse Videos Using Multi-Stage Dynamic Generative Adversarial Networks.**<br>
-*[Wei Xiong](https://wxiong.me/), Wenhan Luo, Lin Ma, Wei Liu, Jiebo Luo.*<br>
-CVPR 2018. [[PDF](https://arxiv.org/abs/1709.07592)] [[Github](https://github.com/weixiong-ur/mdgan)] [[Dataset](https://drive.google.com/open?id=1xWLiU-MBGN7MrsFHQm4_yXmfHBsMbJQo)] [[Project](https://sites.google.com/site/whluoimperial/mdgan)]
-
-**Visual Dynamics: Stochastic Future Generation via Layered Cross Convolutional Networks.**<br>
-*[Tianfan Xue](http://people.csail.mit.edu/tfxue/research_statement_tianfan.pdf), Jiajun Wu, Katherine L. Bouman, William T. Freeman.*<br>
-TPAMI 2019 / NeurIPS 2016. [[PDF](https://arxiv.org/abs/1807.09245)] [[Project](visualdynamics.csail.mit.edu)] [[Github](https://github.com/tfxue/visual-dynamics)]
-
-**Super SloMo: High Quality Estimation of Multiple Intermediate Frames for Video Interpolation.**<br>
-*[Huaizu Jiang(http://jianghz.me/), [Deqing Sun](http://research.nvidia.com/person/deqing-sun), Varun Jampani, Ming-Hsuan Yang, Erik Learned-Miller, Jan Kautz.*<br>
-CVPR 2018. [[PDF](https://arxiv.org/abs/1712.00080)] [[Project](https://people.cs.umass.edu/~hzjiang/projects/superslomo/)] [[Github](https://github.com/avinashpaliwal/Super-SloMo)]
-
 ## Motion Transfer & Retargeting & Reenactment & Dubbing & Animation
+
+[[awesome-human-motion](https://github.com/derikon/awesome-human-motion)]
 
 **Deferred Neural Rendering: Image Synthesis using Neural.**<br>
 *Justus Thies, Michael Zollhöfer, Matthias Nießner.*<br>
@@ -283,6 +226,71 @@ CVPR 2019 (oral). [[PDF](https://arxiv.org/abs/1905.08776)] [[Project](https://s
 **Appearance Composing GAN: A General Method for Appearance-Controllable Human Video Motion Transfer.** <br>
 *Dongxu Wei, Haibin Shen, Kejie Huang.*<br>
 arxiv, 25 Nov 2019. [[PDF](https://arxiv.org/abs/1911.10672)]
+
+## Frame Interpolation, Videos Generation
+
+**DAIN: Depth-Aware Video Frame Interpolation.**<br>
+*Wenbo Bao, Wei-Sheng Lai, Chao Ma, Xiaoyun Zhang, Zhiyong Gao, Ming-Hsuan Yang.*<br>
+CVPR 2019. [[PDF](https://arxiv.org/abs/1904.00830)]
+[[Github](https://github.com/baowenbo/DAIN)]
+[[Software](https://drive.google.com/file/d/1uuDkF4j4H1AI1ot88XdqzwMdvAPhxKN8/view)]
+
+**Learning to Generate Time-Lapse Videos Using Multi-Stage Dynamic Generative Adversarial Networks.**<br>
+*[Wei Xiong](https://wxiong.me/), Wenhan Luo, Lin Ma, Wei Liu, Jiebo Luo.*<br>
+CVPR 2018. [[PDF](https://arxiv.org/abs/1709.07592)] [[Github](https://github.com/weixiong-ur/mdgan)] [[Dataset](https://drive.google.com/open?id=1xWLiU-MBGN7MrsFHQm4_yXmfHBsMbJQo)] [[Project](https://sites.google.com/site/whluoimperial/mdgan)]
+
+**Visual Dynamics: Stochastic Future Generation via Layered Cross Convolutional Networks.**<br>
+*[Tianfan Xue](http://people.csail.mit.edu/tfxue/research_statement_tianfan.pdf), Jiajun Wu, Katherine L. Bouman, William T. Freeman.*<br>
+TPAMI 2019 / NeurIPS 2016. [[PDF](https://arxiv.org/abs/1807.09245)] [[Project](visualdynamics.csail.mit.edu)] [[Github](https://github.com/tfxue/visual-dynamics)]
+
+**Super SloMo: High Quality Estimation of Multiple Intermediate Frames for Video Interpolation.**<br>
+*[Huaizu Jiang(http://jianghz.me/), [Deqing Sun](http://research.nvidia.com/person/deqing-sun), Varun Jampani, Ming-Hsuan Yang, Erik Learned-Miller, Jan Kautz.*<br>
+CVPR 2018. [[PDF](https://arxiv.org/abs/1712.00080)] [[Project](https://people.cs.umass.edu/~hzjiang/projects/superslomo/)] [[Github](https://github.com/avinashpaliwal/Super-SloMo)]
+
+## Multi-Modality Translation
+
+[[Eurus-Holmes/Awesome-Multimodal-Research](https://github.com/Eurus-Holmes/Awesome-Multimodal-Research)]</br>
+[[pliang279/awesome-multimodal-ml](https://github.com/pliang279/awesome-multimodal-ml)]</br>
+
+### Text-to-Image
+
+**ControlGAN: Controllable Text-to-Image Generation.**<br>
+*Bowen Li, Xiaojuan Qi, Thomas Lukasiewicz, Philip H. S. Torr.*<br>
+NeurIPS 2019. [[PDF](https://papers.nips.cc/paper/8480-controllable-text-to-image-generation.pdf)] [[Github](https://github.com/mrlibw/ControlGAN)]
+
+**Object-driven Text-to-Image Synthesis via Adversarial Training.**<br>
+*Wenbo Li, Pengchuan Zhang, Lei Zhang, Qiuyuan Huang, Xiaodong He, Siwei Lyu, Jianfeng Gao.*<br>
+CVPR 2019. [[PDF](https://arxiv.org/abs/1902.10740)]
+
+### Voice-to-Image
+Speech2Face: Learning the Face Behind a Voice.
+Tae-Hyun Oh, Tali Dekel, Changil Kim, Inbar Mosseri, William T. Freeman, Michael Rubinstein, Wojciech Matusik.
+CVPR 2019. [[PDF](https://arxiv.org/abs/1905.09773)] [[project](https://speech2face.github.io/)] [[Related Work](https://speech2face.github.io/)]
+
+### Text-to-speech
+**Transfer Learning from Speaker Verification to Multispeaker Text-To-Speech Synthesis.**<br>
+*Ye Jia, Yu Zhang, Ron J. Weiss, Quan Wang, Jonathan Shen, Fei Ren, Zhifeng Chen, Patrick Nguyen, Ruoming Pang, Ignacio Lopez Moreno, Yonghui Wu.*<br>
+eurIPS 2018. [[PDF](https://arxiv.org/abs/1806.04558v4)] [[Github](https://github.com/CorentinJ/Real-Time-Voice-Cloning)] [[Github](https://github.com/Suhee05/Text-Independent-Speaker-Verification)]
+
+**In Other News: a Bi-style Text-to-speech Model for Synthesizing Newscaster Voice with Limited Data.**<br>
+*Nishant Prateek, Mateusz Łajszczak, Roberto Barra-Chicote, Thomas Drugman, Jaime Lorenzo-Trueba, Thomas Merritt, Srikanth Ronanki, Trevor Wood.*<br>
+NAACL. [[PDF](https://www.aclweb.org/anthology/N19-2026/)]
+
+**The Theory behind Controllable Expressive Speech Synthesis: a Cross-disciplinary Approach.**<br>
+*Noé Tits, Kevin El Haddad, Thierry Dutoit.*<br>
+arxiv, 14 Oct 2019. IntechOpen. [[PDF](https://arxiv.org/abs/1910.06234v1)]
+
+**Token-Level Ensemble Distillation for Grapheme-to-Phoneme Conversion.**<br>
+*Hao Sun, Xu Tan, Jun-Wei Gan, Hongzhi Liu, Sheng Zhao, Tao Qin, Tie-Yan Liu.*<br>
+interspeech 2019. [[PDF](https://arxiv.org/abs/1911.06573v1)] 
+
+**Independent and Automatic Evaluation of Acoustic-to-Articulatory Inversion Models.**<br>
+*Maud Parrot, Juliette Millet, Ewan Dunbar.*<br>
+arxiv, 15 Nov 2019. [[PDF](https://arxiv.org/pdf/1911.06573v1.pdf)]
+
+**Using VAEs and Normalizing Flows for One-shot Text-To-Speech Synthesis of Expressive Speech.**<br>
+*Vatsal Aggarwal, Marius Cotescu, Nishant Prateek, Jaime Lorenzo-Trueba, Roberto Barra-Chicote.*<br>
+arxiv, 20 Nov 2019. [[PDF](https://arxiv.org/abs/1911.12760v1)] 
 
 
 
