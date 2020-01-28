@@ -251,7 +251,7 @@ NeurIPS 2018. [[PDF](https://arxiv.org/abs/1809.01361)] [[Github](https://github
 
 **GDWTC: Image-to-Image Translation via Group-wise Deep Whitening and Coloring Transformation.** <br> 
 *Wonwoong Cho, Sungha Choi, David Keetae Park, Inkyu Shin, Jaegul Choo.*<br>
-CVPR 2019. [[PDF](https://arxiv.org/abs/1812.09912)]    
+CVPR 2019. [[PDF](https://arxiv.org/abs/1812.09912)] [[Github](https://github.com/WonwoongCho/GDWCT)]
 
 **DRIT++: Diverse Image-to-Image Translation via Disentangled Representations.**<br> 
 *Hsin-Ying Lee, Hung-Yu Tseng, Qi Mao, Jia-Bin Huang, Yu-Ding Lu, Maneesh Singh, Ming-Hsuan Yang.*<br>
@@ -314,7 +314,6 @@ ACCV 2018. [[PDF](https://arxiv.org/abs/1810.04991)] [[Github](https://github.co
 **SMIT: Stochastic Multi-Label Image-to-Image Translation.** <br>
 *Andrés Romero, Pablo Arbeláez, Luc Van Gool, Radu Timofte.*<br>
 ICCV Workshops 2019. [[PDF](https://arxiv.org/abs/1812.03704)] [[Github](https://github.com/BCV-Uniandes/SMIT)]                                                               
-
 **Image-to-Image Translation with Multi-Path Consistency Regularization.**<br> 
 *Jianxin Lin, Yingce Xia, Yijun Wang, Tao Qin, Zhibo Chen.*<br> 
 IJCAI 2019. [[PDF](https://arxiv.org/abs/1905.12498)]   
@@ -620,7 +619,7 @@ Tristan Bepler, Ellen Zhong, Kotaro Kelley, Edward Brignole, Bonnie Berger.*
 **ReversibleGANs for Memory-Efficient ImageTo Image Translation.** [[PDF](http://openaccess.thecvf.com/content_CVPR_2019/html/van_der_Ouderaa_Reversible_GANs_for_Memory-Efficient_Image-To-Image_Translation_CVPR_2019_paper.html)]<br>
 *Tycho F.A. van der Ouderaa, Daniel E. Worrall.*<br>
 
-**Image-To-Image Translation via Group-Wise Deep Whitening-And-Coloring Transformation.** [[PDF](http://openaccess.thecvf.com/content_CVPR_2019/html/Cho_Image-To-Image_Translation_via_Group-Wise_Deep_Whitening-And-Coloring_Transformation_CVPR_2019_paper.html)]<br>
+**Image-To-Image Translation via Group-Wise Deep Whitening-And-Coloring Transformation.** [[PDF](http://openaccess.thecvf.com/content_CVPR_2019/html/Cho_Image-To-Image_Translation_via_Group-Wise_Deep_Whitening-And-Coloring_Transformation_CVPR_2019_paper.html)] [[Github](https://github.com/WonwoongCho/GDWCT)]<br>
 *Wonwoong Cho, Sungha Choi, David Keetae Park, Inkyu Shin, Jaegul Choo.*<br>
 
 **Towards Visual Feature Translation.** [[PDF](http://openaccess.thecvf.com/content_CVPR_2019/html/Hu_Towards_Visual_Feature_Translation_CVPR_2019_paper.html)]<br>
