@@ -523,6 +523,33 @@ SIGGRAPH 2019. [[PDF](https://research.fb.com/publications/vr-facial-animation-v
 *Junho Kim, Minjae Kim, Hyeonwoo Kang, Kwanghee Lee.*<br>
 ICLR 2020. [[PDF](https://arxiv.org/abs/1907.10830)] [[Official Tensorflow](https://github.com/taki0112/UGATIT)] [[Pytorch](https://github.com/znxlwm/UGATIT-pytorch)]
 
+### AAAI 2020 
+[[accepted paper list](https://aaai.org/Conferences/AAAI-20/wp-content/uploads/2020/01/AAAI-20-Accepted-Paper-List.pdf)]
+
+**Distilling Portable Generative Adversarial Networks for Image Translation.**<br>
+*Hanting Chen, Yunhe Wang, Han Shu, Changyuan Wen, Chunjing Xu, Boxin Shi, Chao Xu, Chang Xu.*<br>
+
+**Fast and Robust Face-to-Parameter Translation for Game Character Auto-Creation.**<br>
+*Tianyang Shi, Zhengxia Zou, Yi Yuan, Changjie Fan.*<br>
+
+**Learning to Transfer: Unsupervised Domain Translation via Meta-Learning.**<br>
+*Jianxin Lin, Yijun Wang, Zhibo Chen, Tianyu He.*<br>
+
+**Multimodal Structure-Consistent Image-to-Image Translation.**<br>
+*Che-Tsung Lin, Yen-Yi Wu, Po-Hao Hsu, Shang-Hong Lai.*<br>
+
+**Go From the General to the Particular: Multi-Domain Translation with Domain Transformation Networks.**<br>
+*Yong Wang, Longyue Wang, Shuming Shi, Victor Li, Zhaopeng Tu.*<br>
+
+**Generating Diverse Translation by Manipulating Multi-Head Attention.**[[PDF](https://arxiv.org/abs/1911.09333v1)]<br>
+*Zewei Sun, Shujian Huang, Hao-Ran Wei, Xin-yu Dai, Jiajun Chen.*<br>
+
+**GAN-Based Unpaired Chinese Character Image Translation via Skeleton Transformation and Stroke Rendering.**<br>
+*Yiming Gao, Jiangqin Wu.*<br>
+
+**Benign Examples: Imperceptible Changes Can Enhance Image Translation Performance.**<br>
+*Vignesh Srinivasan, Klaus-Robert Müller, Wojciech Samek, Shinichi Nakajima.*<br>
+
 ### Others 2020
 
 **CDGAN: Cyclic Discriminative Generative Adversarial Networks for Image-to-Image Transformation.**<br>

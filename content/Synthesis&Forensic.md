@@ -267,6 +267,11 @@ Speech2Face: Learning the Face Behind a Voice.
 Tae-Hyun Oh, Tali Dekel, Changil Kim, Inbar Mosseri, William T. Freeman, Michael Rubinstein, Wojciech Matusik.
 CVPR 2019. [[PDF](https://arxiv.org/abs/1905.09773)] [[project](https://speech2face.github.io/)] [[Related Work](https://speech2face.github.io/)]
 
+### speech-to-Text
+Synchronous Speech Recognition and Speech-to-Text Translation with Interactive Decoding
+Yuchen Liu, Jiajun Zhang, Hao Xiong, Long Zhou, Zhongjun He, Hua Wu, Haifeng Wang, Chengqing Zong
+AAAI 2020. [[PDF](https://arxiv.org/abs/1912.07240)]
+
 ### Text-to-speech
 **Transfer Learning from Speaker Verification to Multispeaker Text-To-Speech Synthesis.**<br>
 *Ye Jia, Yu Zhang, Ron J. Weiss, Quan Wang, Jonathan Shen, Fei Ren, Zhifeng Chen, Patrick Nguyen, Ruoming Pang, Ignacio Lopez Moreno, Yonghui Wu.*<br>
