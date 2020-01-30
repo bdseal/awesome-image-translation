@@ -19,7 +19,7 @@ CVPR 2019.
 [[FFHQ](https://github.com/NVlabs/ffhq-dataset)]
 
 **Overcoming the Disentanglement vs Reconstruction Trade-off via Jacobian Supervision.**<br>
-*[José Lezama](https://iie.fing.edu.uy/~jlezama/).* <br>
+*[José Lezama](https://iie.fing.edu.uy/~jlezama/).*<br>
 ICLR 2019. [[PDF](https://openreview.net/pdf?id=Hkg4W2AcFm)] [[Github](https://github.com/jlezama/disentangling-jacobian)]
 
 **SinGAN: Learning a Generative Model from a Single Natural Image.**<br>
@@ -27,7 +27,7 @@ ICLR 2019. [[PDF](https://openreview.net/pdf?id=Hkg4W2AcFm)] [[Github](https://g
 ICCV 2019 (Best Paper). 
 [[PDF](https://arxiv.org/abs/1905.01164)] [[UnOfficial](github.com/FriedRonaldo/SinGAN)] [[Official](github.com/tamarott/SinGAN)]
 
-**InGAN: Capturing and Retargeting the DNA of a Natural Image.** <br>
+**InGAN: Capturing and Retargeting the DNA of a Natural Image.**<br>
 ICCV 2019. [[PDF](http://www.wisdom.weizmann.ac.il/~vision/ingan/resources/ingan.pdf)] [[Project](http://www.wisdom.weizmann.ac.il/~vision/ingan/)] [[Github](https://github.com/assafshocher/InGAN)] 
 
 **Image2StyleGAN: How to Embed Images Into the StyleGAN Latent Space?**<br>
@@ -58,6 +58,10 @@ Eurographics 2019. [[PDF](https://arxiv.org/pdf/1808.06847.pdf)]
 
 [[FaceForensics Benchmark](http://kaldir.vc.in.tum.de/faceforensics_benchmark/)]
 [[awesome-deepfakes-materials](https://github.com/datamllab/awesome-deepfakes-materials)]
+
+**FakeLocator: Robust Localization of GAN-Based Face Manipulations via Semantic Segmentation Networks with Bells and Whistles.**<br>
+*Yihao Huang, Felix Juefei-Xu, Run Wang, Xiaofei Xie, Lei Ma, Jianwen Li, Weikai Miao, Yang Liu, Geguang Pu.*<br>
+arxiv, 27 Jan 2020. [[PDF](https://arxiv.org/abs/2001.09598)]
 
 **DeeperForensics-1.0: A Large-Scale Dataset for Real-World Face Forgery Detection.**<br>
 *[Liming Jiang](https://liming-jiang.com/), [Wayne Wu](https://wywu.github.io/), [Ren Li](https://liren2515.github.io/page/), [Chen Qian](https://scholar.google.com/citations?user=AerkT0YAAAAJ&hl=en), [Chen Change Loy](http://personal.ie.cuhk.edu.hk/~ccloy/).*<br>
@@ -146,6 +150,10 @@ arxiv, 2019. [[PDF](https://arxiv.org/abs/1912.11258)] [[Github](https://github.
 ## Novel-View Synthesis
 [Novel-View Synthesis](https://paperswithcode.com/task/novel-view-synthesis/codeless)
 
+**View Independent Generative Adversarial Network for Novel View Synthesis.**<br>
+*Xiaogang Xu, Ying-Cong Chen, Jiaya Jia.*<br>
+ICCV 2019. [[PDF](http://openaccess.thecvf.com/content_ICCV_2019/papers/Xu_View_Independent_Generative_Adversarial_Network_for_Novel_View_Synthesis_ICCV_2019_paper.pdf)]
+
 **SynSin: End-to-end View Synthesis from a Single Image.**<br>
 *Georgia Gkioxari, Jitendra Malik, Justin Johnson.*<br>
 ICCV 2019. [[PDF](https://arxiv.org/abs/1912.08804)]
@@ -163,15 +171,15 @@ ICCV 2019. [[PDF](https://arxiv.org/abs/1901.01880)]
 *Inchang Choi, Orazio Gallo, Alejandro Troccoli, Min H. Kim, Jan Kautz.*<br>
 ICCV 2019. [[PDF](https://arxiv.org/abs/1812.04777)]
 
-**Transformable Bottleneck Networks.** <br>
-*Kyle Olszewski, Sergey Tulyakov, Oliver Woodford, Hao Li, Linjie Luo.* <br>
+**Transformable Bottleneck Networks.**<br>
+*Kyle Olszewski, Sergey Tulyakov, Oliver Woodford, Hao Li, Linjie Luo.*<br>
 ICCV 2019. [[PDF](http://openaccess.thecvf.com/content_ICCV_2019/papers/Olszewski_Transformable_Bottleneck_Networks_ICCV_2019_paper.pdf)]
 
-**View Independent Generative Adversarial Network for Novel View Synthesis.** <br>
-Xiaogang Xu, Ying-Cong Chen, Jiaya Jia.* <br>
+**View Independent Generative Adversarial Network for Novel View Synthesis.**<br>
+*Xiaogang Xu, Ying-Cong Chen, Jiaya Jia.*<br>
 ICCV 2019. [[PDF](http://openaccess.thecvf.com/content_ICCV_2019/papers/Xu_View_Independent_Generative_Adversarial_Network_for_Novel_View_Synthesis_ICCV_2019_paper.pdf)]
 
-**DNR: A Neural Rendering Framework for Free-Viewpoint Relighting.** <br>
+**DNR: A Neural Rendering Framework for Free-Viewpoint Relighting.**<br>
 *Zhang Chen, Anpei Chen, Guli Zhang, Chengyuan Wang, Yu Ji, Kiriakos N. Kutulakos, Jingyi Yu.*<br>
 arxiv, 26 Nov 2019.
 
@@ -191,12 +199,12 @@ SIGGRAPH Asia, 2019. [[PDF](https://arxiv.org/pdf/1903.10170.pdf)]
 *Linsen Song, [Wayne Wu](http://wywu.github.io/), Chen Qian, [Ran He](https://scholar.google.com/citations?user=ayrg9AUAAAAJ&hl=en), Chen Change Loy.*<br>
 arxiv, 15 Jan 2020. [[PDF](https://arxiv.org/abs/2001.05201)] [[Project](https://wywu.github.io/projects/EBT/EBT.html)]
 
-**Neural Human Video Rendering: Joint Learning of Dynamic Textures and Rendering-to-Video Translation.** <br>
-*Lingjie Liu, Weipeng Xu, Marc Habermann, Michael Zollhoefer, Florian Bernard, Hyeongwoo Kim, Wenping Wang, Christian Theobalt.* <br>
+**Neural Human Video Rendering: Joint Learning of Dynamic Textures and Rendering-to-Video Translation.**<br>
+*Lingjie Liu, Weipeng Xu, Marc Habermann, Michael Zollhoefer, Florian Bernard, Hyeongwoo Kim, Wenping Wang, Christian Theobalt.*<br>
 arxiv, 14 Jan 2020. [[PDF](https://arxiv.org/abs/2001.04947)]
 
-**FLNet: Landmark Driven Fetching and Learning Network for Faithful Talking Facial Animation Synthesis.** <br>
-*Kuangxiao Gu, Yuqian Zhou, Thomas Huang.* <br>
+**FLNet: Landmark Driven Fetching and Learning Network for Faithful Talking Facial Animation Synthesis.**<br>
+*Kuangxiao Gu, Yuqian Zhou, Thomas Huang.*<br>
 AAAI 2020. [[PDF](https://arxiv.org/abs/1911.09224)] [[GitHub](https://github.com/kgu3/FLNet_AAAI2020)]
 
 **Liquid Warping GAN: A Unified Framework for Human Motion Imitation, Appearance Transfer and Novel View Synthesis.**<br>
@@ -211,8 +219,8 @@ SIGGRAPH 2019. [[PDF](https://arxiv.org/abs/1905.01680)] [[Github](https://githu
 *Zhen Zhu, Tengteng Huang, Baoguang Shi, Miao Yu, Bofei Wang, Xiang Bai.*<br>
 CVPR 2019. [[Project](https://github.com/tengteng95/Pose-Transfer)] [[PDF](https://arxiv.org/abs/1904.03349)]
 
-**Deep 3D-Zoom Net: Unsupervised Learning of Photo-Realistic 3D-Zoom.** <br>
-*Juan Luis Gonzalez Bello, Munchurl Kim.* <br>
+**Deep 3D-Zoom Net: Unsupervised Learning of Photo-Realistic 3D-Zoom.**<br>
+*Juan Luis Gonzalez Bello, Munchurl Kim.*<br>
 arxiv, 20 Sep 2019. [[PDF](https://arxiv.org/abs/1909.09349v1)]
 
 **Photo Wake-Up: 3D Character Animation from a Single Photo.**<br>
@@ -223,11 +231,20 @@ CVPR 2019. [[PDF](https://arxiv.org/abs/1812.02246)] [[Project](https://grail.cs
 *Aliaksandra Shysheya, Egor Zakharov, Kara-Ali Aliev, Renat Bashirov, Egor Burkov, Karim Iskakov, Aleksei Ivakhnenko, Yury Malkov, Igor Pasechnik, Dmitry Ulyanov, Alexander Vakhitov, Victor Lempitsky.*<br>
 CVPR 2019 (oral). [[PDF](https://arxiv.org/abs/1905.08776)] [[Project](https://saic-violet.github.io/texturedavatar/)]
 
-**Appearance Composing GAN: A General Method for Appearance-Controllable Human Video Motion Transfer.** <br>
+**Appearance Composing GAN: A General Method for Appearance-Controllable Human Video Motion Transfer.**<br>
 *Dongxu Wei, Haibin Shen, Kejie Huang.*<br>
 arxiv, 25 Nov 2019. [[PDF](https://arxiv.org/abs/1911.10672)]
 
-## Frame Interpolation, Videos Generation
+## Frame Interpolation, Videos Generation and Video Prediction
+
+**Eidetic 3D LSTM: A Model for Video Prediction and Beyond.**<br>
+*Yunbo Wang, Lu Jiang, Ming-Hsuan Yang, Li-Jia Li, Mingsheng Long, Li Fei-Fei.*<br>
+ICLR 2019. [[PDF](https://openreview.net/forum?id=B1lKS2AqtX)] [[GitHub](https://github.com/google/e3d_lstm)]
+
+**STGAT: Modeling Spatial-Temporal Interactions for Human Trajectory Prediction.**<br>
+*Yingfan Huang, HuiKun Bi, Zhaoxin Li, Tianlu Mao, Zhaoqi Wang1.*<br> 
+ICCV 2019. [[PDF](http://openaccess.thecvf.com/content_ICCV_2019/papers/Huang_STGAT_Modeling_Spatial-Temporal_Interactions_for_Human_Trajectory_Prediction_ICCV_2019_paper.pdf)]
+[[GitHub](https://github.com/huang-xx/STGAT)] [[Social GAN](https://github.com/agrimgupta92/sgan)]
 
 **DAIN: Depth-Aware Video Frame Interpolation.**<br>
 *Wenbo Bao, Wei-Sheng Lai, Chao Ma, Xiaoyun Zhang, Zhiyong Gao, Ming-Hsuan Yang.*<br>
@@ -263,13 +280,13 @@ NeurIPS 2019. [[PDF](https://papers.nips.cc/paper/8480-controllable-text-to-imag
 CVPR 2019. [[PDF](https://arxiv.org/abs/1902.10740)]
 
 ### Voice-to-Image
-Speech2Face: Learning the Face Behind a Voice.
-Tae-Hyun Oh, Tali Dekel, Changil Kim, Inbar Mosseri, William T. Freeman, Michael Rubinstein, Wojciech Matusik.
+**Speech2Face: Learning the Face Behind a Voice.**<br>
+*Tae-Hyun Oh, Tali Dekel, Changil Kim, Inbar Mosseri, William T. Freeman, Michael Rubinstein, Wojciech Matusik.*<br>
 CVPR 2019. [[PDF](https://arxiv.org/abs/1905.09773)] [[project](https://speech2face.github.io/)] [[Related Work](https://speech2face.github.io/)]
 
 ### speech-to-Text
-Synchronous Speech Recognition and Speech-to-Text Translation with Interactive Decoding
-Yuchen Liu, Jiajun Zhang, Hao Xiong, Long Zhou, Zhongjun He, Hua Wu, Haifeng Wang, Chengqing Zong
+**Synchronous Speech Recognition and Speech-to-Text Translation with Interactive Decoding.**<br>
+*Yuchen Liu, Jiajun Zhang, Hao Xiong, Long Zhou, Zhongjun He, Hua Wu, Haifeng Wang, Chengqing Zong.*<br>
 AAAI 2020. [[PDF](https://arxiv.org/abs/1912.07240)]
 
 ### Text-to-speech
