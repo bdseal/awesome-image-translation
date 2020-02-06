@@ -552,6 +552,16 @@ ICLR 2020. [[PDF](https://arxiv.org/abs/1907.10830)] [[Official Tensorflow](http
 
 ### Others 2020
 
+**Multi-Channel Attention Selection GANs for Guided Image-to-Image Translation.**<br>
+*Hao Tang, Dan Xu, Yan Yan, Jason J. Corso, Philip H.S. Torr, Nicu Sebastie.*<br>
+arxiv, 3 Feb 2020. (An extended version of [SelectionGAN](https://arxiv.org/abs/1904.06807) published in CVPR2019) 
+[[PDF](https://arxiv.org/abs/2002.01048)]
+[[Githtub](https://github.com/Ha0Tang/SelectionGAN)]
+
+**Deformation-aware Unpaired Image Translation for Pose Estimation on Laboratory Animals.**<br>
+*Siyuan Li, [Semih Günel](https://semihgunel.com/), Mirela Ostrek, Pavan Ramdya, [Pascal Fua](https://people.epfl.ch/pascal.fua/bio?lang=en), [Helge Rhodin](http://helge.rhodin.de/).*<br>
+arxiv, 23 Jan 2020. [[PDF](https://arxiv.org/abs/2001.08601)]
+
 **CDGAN: Cyclic Discriminative Generative Adversarial Networks for Image-to-Image Transformation.**<br>
 *Kancharagunta Kishan Babu, Shiv Ram Dubey.*<br>
 arxiv, 15 Jan 2020. [[PDF](https://arxiv.org/abs/2001.05489)]
