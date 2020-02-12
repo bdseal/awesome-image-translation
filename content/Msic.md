@@ -32,6 +32,14 @@ ECCV, 2018.
 
 ## Temporal- and Scale-Consistent Depth Estimation
 
+**Don't Forget The Past: Recurrent Depth Estimation from Monocular Video.**<br>
+*Vaishakh Patil, Wouter Van Gansbeke, Dengxin Dai, Luc Van Gool.*<br>
+arxiv, 8 Jan 2020. [[PDF](https://arxiv.org/abs/2001.02613)] [[Github](https://github.com/wvangansbeke/Recurrent-Depth-Estimation)]
+
+**GLNet: Self-supervised Learning with Geometric Constraints in Monocular Video: Connecting Flow, Depth, and Camera.**<br>
+*Yuhua Chen, Cordelia Schmid, Cristian Sminchisescu.*<br>
+ICCV 2019. [[PDF](https://arxiv.org/abs/1907.05820)]
+
 **Exploiting Temporal Consistency for Real-time Video Depth Estimation.**<br>
 *Haokui Zhang, Chunhua Shen, Ying Li, Yuanzhouhan Cao, Yu Liu, Youliang Yan.*<br>
 ICCV, 2019. [[PDF](https://arxiv.org/abs/1908.03706.pdf)] [[Project](https://tinyurl.com/STCLSTM)]
