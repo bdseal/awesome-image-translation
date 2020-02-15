@@ -57,9 +57,8 @@ Others
 * [Visual Computer Lab](https://niessnerlab.org/opening.html)
 
 **University College London (UCL)** 
-* [The Dyson Robotics Lab at Imperial College](http://www.imperial.ac.uk/dyson-robotics-lab/)
 * [VECG: Virtual Environments and Computer Graphics](http://vecg.cs.ucl.ac.uk/)
-* [VIS: Vision and Imaging Science](vis.cs.ucl.ac.uk)
+* [VIS: Vision and Imaging Science](http://vis.cs.ucl.ac.uk)
 
 University of Cambridge 
 * [Machine Intelligence Laboratory](https://mi.eng.cam.ac.uk/) 
@@ -75,6 +74,7 @@ University of Cambridge
 	* [ORI: Oxford Robotics Institute](http://ori.ox.ac.uk/)
 
 **Imperial College London** 
+* [The Dyson Robotics Lab](http://www.imperial.ac.uk/dyson-robotics-lab/)
 * [Imperial CV and Learning Lab](http://www.iis.ee.ic.ac.uk/ComputerVision/) [[Jobs](abicvl.github.io)]
 * [IBUG: Intelligent Behavior Understanding Group](https://ibug.doc.ic.ac.uk/)
 
