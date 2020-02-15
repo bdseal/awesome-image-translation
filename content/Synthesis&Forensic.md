@@ -18,6 +18,14 @@ CVPR 2019.
 [[Code](https://github.com/NVlabs/stylegan)]
 [[FFHQ](https://github.com/NVlabs/ffhq-dataset)]
 
+**Bayesian Reasoning with Deep-Learned Knowledge.**<br>
+*Jakob Knollmüller, Torsten Enßlin.*<br>
+arxiv, 29 Jan 2020. [[PDF](https://arxiv.org/abs/2001.11031v1)]
+
+**Unsupervised Discovery of Interpretable Directions in the GAN Latent Space.**<br>
+*Andrey Voynov, Artem Babenko.*<br>
+arxiv, 10 Feb 2020. [[PDF](https://arxiv.org/abs/2002.03754)] [[Github](https://github.com/anvoynov/GANLatentDiscovery)]
+
 **Overcoming the Disentanglement vs Reconstruction Trade-off via Jacobian Supervision.**<br>
 *[José Lezama](https://iie.fing.edu.uy/~jlezama/).*<br>
 ICLR 2019. [[PDF](https://openreview.net/pdf?id=Hkg4W2AcFm)] [[Github](https://github.com/jlezama/disentangling-jacobian)]
