@@ -9,6 +9,11 @@ A collection of papers on inferring the physical world (shape, depth, motion, pa
 *Ye Yu, William A. P. Smith.*<br>
 CVPR 2019. [[PDF](http://openaccess.thecvf.com/content_CVPR_2019/html/Yu_InverseRenderNet_Learning_Single_Image_Inverse_Rendering_CVPR_2019_paper.html)] [[Github](https://github.com/YeeU/InverseRenderNet)] [[IIW Dataset](http://opensurfaces.cs.cornell.edu/publications/intrinsic/#download)] 
 
+## Disentanglement
+**Unsupervised Disentanglement of Pose, Appearance and Background from Images and Videos.**<br>
+*Aysegul Dundar, Kevin J. Shih, Animesh Garg, Robert Pottorf, Andrew Tao, Bryan Catanzaro.*<br>
+arxiv, 26 Jan 2020. [[PDF](https://arxiv.org/abs/2001.09518)]
+
 ## Light, Reflectance and llluminance
 
 **Generating Digital Painting Lighting Effects via RGB-space Geometry.**<br>
