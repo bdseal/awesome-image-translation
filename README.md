@@ -13,7 +13,7 @@ Feedback and contributions are welcome!
 - [Supervised](#supervised)
 - [Unsupervised](#unsupervised)
   * [General](#general)
-  * [Attention-Examplar-Guided](#attention-examplar-guided)
+  * [Attention-Examplar-Text-Guided](#attention-examplar-guided)
   * [Disentanglement](#disentanglement)
   * [Many-to-many](#many-to-many)
 - [Applications](#applications)
@@ -165,7 +165,11 @@ arxiv, 8 Apr 2019. [[PDF](http://homes.esat.kuleuven.be/~liqianma/pdf/Arxiv19_A_
 *Xinyang Li, Jie Hu, Shengchuan Zhang, Xiaopeng Hong, Qixiang Ye, Chenglin Wu, Rongrong Ji.*<br>
 arxiv, 29 Apr 2019. [[PDF](https://arxiv.org/abs/1904.12428)] [[Github](https://github.com/imlixinyang/AGUIT)]
 
-### Attention-Examplar-Guided
+### Text-Attention-Examplar-Guided
+
+**Image-to-Image Translation with Text Guidance.**<br>
+*Bowen Li, Xiaojuan Qi, Philip H. S. Torr, Thomas Lukasiewicz.*<br>
+arxiv, 12 Feb 2020. [[PDF](https://arxiv.org/abs/2002.05235)]
 
 **ContrastGAN: Generative Semantic Manipulation with Mask-Contrasting GAN.**<br>
 *Xiaodan Liang, Hao Zhang, Eric P. Xing.*<br>
@@ -551,6 +555,14 @@ ICLR 2020. [[PDF](https://arxiv.org/abs/1907.10830)] [[Official Tensorflow](http
 *Vignesh Srinivasan, Klaus-Robert Müller, Wojciech Samek, Shinichi Nakajima.*<br>
 
 ### Others 2020
+
+**GANILLA: Generative Adversarial Networks for Image to Illustration Translation.**<br>
+*Samet Hicsonmez, Nermin Samet, Emre Akbas, Pinar Duygulu.*<br>
+arxiv, 13 Feb 2020. Image and Vision Computing. [[PDF](https://arxiv.org/abs/2002.05638)] [[Github](https://github.com/giddyyupp/ganilla)]
+
+**Image-to-Image Translation with Text Guidance.**<br>
+*Bowen Li, Xiaojuan Qi, Philip H. S. Torr, Thomas Lukasiewicz.*<br>
+arxiv, 12 Feb 2020. [[PDF](https://arxiv.org/abs/2002.05235)]
 
 **Multi-Channel Attention Selection GANs for Guided Image-to-Image Translation.**<br>
 *Hao Tang, Dan Xu, Yan Yan, Jason J. Corso, Philip H.S. Torr, Nicu Sebastie.*<br>
