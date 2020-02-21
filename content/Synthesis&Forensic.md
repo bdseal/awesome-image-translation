@@ -67,6 +67,10 @@ Eurographics 2019. [[PDF](https://arxiv.org/pdf/1808.06847.pdf)]
 [[FaceForensics Benchmark](http://kaldir.vc.in.tum.de/faceforensics_benchmark/)]
 [[awesome-deepfakes-materials](https://github.com/datamllab/awesome-deepfakes-materials)]
 
+**Fawkes: Protecting Personal Privacy against Unauthorized Deep Learning Models.**<br>
+*Shawn Shan, Emily Wenger, Jiayun Zhang, Huiying Li, Haitao Zheng, Ben Y. Zhao.*<br>
+arxiv, 19 Feb 2020. [[PDF](https://arxiv.org/abs/2002.08327)]
+
 **FakeLocator: Robust Localization of GAN-Based Face Manipulations via Semantic Segmentation Networks with Bells and Whistles.**<br>
 *Yihao Huang, Felix Juefei-Xu, Run Wang, Xiaofei Xie, Lei Ma, Jianwen Li, Weikai Miao, Yang Liu, Geguang Pu.*<br>
 arxiv, 27 Jan 2020. [[PDF](https://arxiv.org/abs/2001.09598)]
@@ -276,6 +280,14 @@ CVPR 2018. [[PDF](https://arxiv.org/abs/1712.00080)] [[Project](https://people.c
 
 [[Eurus-Holmes/Awesome-Multimodal-Research](https://github.com/Eurus-Holmes/Awesome-Multimodal-Research)]</br>
 [[pliang279/awesome-multimodal-ml](https://github.com/pliang279/awesome-multimodal-ml)]</br>
+
+### Voice-to-Voice
+**Speech-to-Singing Conversion in an Encoder-Decoder Framework.**<br>
+*Jayneel Parekh, Preeti Rao, Yi-Hsuan Yang.*<br>
+ICASSP 2020. 
+[[PDF](https://arxiv.org/abs/2002.06595)] [[Github](https://github.com/jayneelparekh/sp2si-code)] 
+[[Project](https://jayneelparekh.github.io/icassp20/)]
+[[NUS-48E dataset](https://smcnus.comp.nus.edu.sg/nus-48e-sung-and-spoken-lyrics-corpus/)]
 
 ### Text-to-Image
 
