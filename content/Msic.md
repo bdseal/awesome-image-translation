@@ -32,6 +32,10 @@ ECCV, 2018.
 
 ## Temporal- and Scale-Consistent Depth Estimation
 
+**Neural RGB->D Sensing: Depth and Uncertainty from a Video Camera.**<br>
+*[Chao Liu](http://www.cs.cmu.edu/~ILIM/people/chaoliu1/), [Jinwei Gu](http://www.gujinwei.org/), [Kihwan Kim](https://research.nvidia.com/person/kihwan-kim), Srinivasa Narasimhan, [Jan Kautz](https://research.nvidia.com/person/jan-kautz).*<br>
+CVPR 2019. [[PDF](https://arxiv.org/abs/1901.02571)] [[Project](https://research.nvidia.com/publication/2019-06_Neural-RGBD)] [[Github](https://github.com/NVlabs/neuralrgbd)]
+
 **Don't Forget The Past: Recurrent Depth Estimation from Monocular Video.**<br>
 *Vaishakh Patil, Wouter Van Gansbeke, Dengxin Dai, Luc Van Gool.*<br>
 arxiv, 8 Jan 2020. [[PDF](https://arxiv.org/abs/2001.02613)] [[Github](https://github.com/wvangansbeke/Recurrent-Depth-Estimation)]
@@ -100,6 +104,13 @@ ICCV, 2019. [[PDF](https://arxiv.org/abs/1908.03706.pdf)] [[Project](https://tin
 CVPR 2019. 
 [[PDF](http://openaccess.thecvf.com/content_CVPR_2019/papers/Pavllo_3D_Human_Pose_Estimation_in_Video_With_Temporal_Convolutions_and_CVPR_2019_paper.pdf)] 
 [[Github](https://github.com/facebookresearch/VideoPose3D)] [[Project](https://dariopavllo.github.io/VideoPose3D)]
+
+
+## Uncertainty in DL
+
+**What Uncertainties Do We Need in Bayesian Deep Learning for Computer Vision?**<br>
+*Alex Kendall, Yarin Gal.*<br>
+NIPS 2017.  [[PDF](https://arxiv.org/abs/1703.04977)] [[Github](http://github.com/pmorerio/dl-uncertainty)]
 
 ## Reciprocal Computer Vision Tasks
 
