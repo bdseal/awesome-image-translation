@@ -853,6 +853,8 @@ python download-dataset.py datasetname
 - `maps`: 1096 training images scraped from Google Maps
 - `edges2shoes`: 50k training images from [UT Zappos50K dataset](http://vision.cs.utexas.edu/projects/finegrained/utzap50k). Edges are computed by [HED](https://github.com/s9xie/hed) edge detector + post-processing. [[Citation](datasets/bibtex/shoes.tex)]
 - `edges2handbags`: 137K Amazon Handbag images from [iGAN project](https://github.com/junyanz/iGAN). Edges are computed by [HED](https://github.com/s9xie/hed) edge detector + post-processing. [[Citation](datasets/bibtex/handbags.tex)]
+
+
 ### CycleGAN Datasets
 - `facades`: 400 images from the [CMP Facades dataset](http://cmp.felk.cvut.cz/~tylecr1/facade). [[Citation](datasets/bibtex/facades.tex)]
 - `cityscapes`: 2975 images from the [Cityscapes training set](https://www.cityscapes-dataset.com). [[Citation](datasets/bibtex/cityscapes.tex)]
@@ -862,6 +864,7 @@ python download-dataset.py datasetname
 - `summer2winter_yosemite`: 1273 summer Yosemite images and 854 winter Yosemite images were downloaded using Flickr API. See more details in our paper.
 - `monet2photo`, `vangogh2photo`, `ukiyoe2photo`, `cezanne2photo`: The art images were downloaded from [Wikiart](https://www.wikiart.org/). The real photos are downloaded from Flickr using the combination of the tags *landscape* and *landscapephotography*. The training set size of each class is Monet:1074, Cezanne:584, Van Gogh:401, Ukiyo-e:1433, Photographs:6853.
 - `iphone2dslr_flower`: both classes of images were downlaoded from Flickr. The training set size of each class is iPhone:1813, DSLR:3316.
+- `KaoKore Dataset`: KaoKore is a novel dataset of face images from Japanese illustrations along with multiple labels for each face, derived from [the Collection of Facial Expressions](http://codh.rois.ac.jp/face/). [KaoKore dataset](https://github.com/rois-codh/kaokore) contains 5552 image files, each being an color (RGB) image of size 256 x 256 as well as two sets of labels gender and social status.
 
 ### Attribute Editing
 - `CelebA`. The CelebFaces Attributes (CelebA) dataset contains 202,599 face images of celebrities, each annotated with 40 binary attributes. size 178×218. hair color (black, blond, brown),gender (male/female), and age (young/old).
@@ -873,7 +876,7 @@ python download-dataset.py datasetname
 permissive licenses from the [Flickr](https://www.flickr.com/) and [Pixabay](https://pixabay.com/) websites. All images are vertically and horizontally aligned to have the eyes at the center. The low-quality images were discarded by human effort. See the [Project](https://github.com/clovaai/stargan-v2) or Paper for more details.
 
 ### Others
--`Makeup Transfer`. [[Download](http://liusi-group.com/projects/BeautyGAN)]
+- `Makeup Transfer`. [[Download](http://liusi-group.com/projects/BeautyGAN)]
 - `DeepFashion`. In-shop Clothes Retrieval Benchmark evaluates the performance of in-shop Clothes Retrieval. This is a large subset of DeepFashion, containing large pose and scale variations. It also has large diversities, large quantities, and rich annotations, including 7,982 number of clothing items, 52,712 number of in-shop clothes images, and ~200,000 cross-pose/scale pairs, Each image is annotated by bounding box, clothing type and pose type. [Download](http://mmlab.ie.cuhk.edu.hk/projects/DeepFashion/InShopRetrieval.html)
 - `AI-Generated Faces`: Free Resource of 100K Faces Without Copyright. [[Download](http://t.cn/AiEky6r3)]
 - `All-Age-Faces (AAF) Database` - contains 13'322 face images (mostly Asian) distributed across all ages (from 2 to 80), including 7381 females and 5941 males. [GitHub](http://t.cn/AinOjWhK) [Paper](http://t.cn/AinOjWhY)
