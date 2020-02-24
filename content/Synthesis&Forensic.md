@@ -67,6 +67,10 @@ Eurographics 2019. [[PDF](https://arxiv.org/pdf/1808.06847.pdf)]
 [[FaceForensics Benchmark](http://kaldir.vc.in.tum.de/faceforensics_benchmark/)]
 [[awesome-deepfakes-materials](https://github.com/datamllab/awesome-deepfakes-materials)]
 
+**Real or Not Real, that is the Question.**<br>
+Yuanbo Xiangli*, Yubin Deng*, Bo Dai*, Chen Change Loy, Dahua Lin.*<br>
+ICLR 2020. [[PDF](https://openreview.net/forum?id=B1lPaCNtPB)] [[Github](https://github.com/kam1107/RealnessGAN)] 
+
 **Fawkes: Protecting Personal Privacy against Unauthorized Deep Learning Models.**<br>
 *Shawn Shan, Emily Wenger, Jiayun Zhang, Huiying Li, Haitao Zheng, Ben Y. Zhao.*<br>
 arxiv, 19 Feb 2020. [[PDF](https://arxiv.org/abs/2002.08327)]
