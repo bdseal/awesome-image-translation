@@ -173,6 +173,9 @@ ACM Transactions on Graphics (TOG) 2012.
 arxiv, 5 Dec 2019. [[PDF](https://arxiv.org/abs/1912.02792v1)]
 
 ## Restoration with Unpair or Misaligned Data
+**Replacing Mobile Camera ISP with a Single Deep Learning Model.**<br>
+*Andrey Ignatov, Luc Van Gool, Radu Timofte.* <br>
+arxiv, 13 Feb 2020. [[PDF](https://arxiv.org/abs/2002.05509)] [[Github](https://github.com/aiff22/PyNET)] [[Project](http://people.ee.ethz.ch/~ihnatova/pynet.html)]
 
 **EnlightenGAN: Deep Light Enhancement without Paired Supervision.**<br>
 *Yifan Jiang, Xinyu Gong, Ding Liu, Yu Cheng, Chen Fang, Xiaohui Shen, Jianchao Yang, Pan Zhou, Zhangyang Wang.*<br>
