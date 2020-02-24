@@ -14,6 +14,10 @@ CVPR 2019. [[PDF](http://openaccess.thecvf.com/content_CVPR_2019/html/Yu_Inverse
 *Aysegul Dundar, Kevin J. Shih, Animesh Garg, Robert Pottorf, Andrew Tao, Bryan Catanzaro.*<br>
 arxiv, 26 Jan 2020. [[PDF](https://arxiv.org/abs/2001.09518)]
 
+**3D Dynamic Scene Graphs: Actionable Spatial Perception with Places, Objects, and Humans.**<br>
+*Antoni Rosinol, Arjun Gupta, Marcus Abate, Jingnan Shi, Luca Carlone.*<br>
+arxiv, 15 Feb 2020. [[PDF](https://arxiv.org/abs/2002.06289)]
+
 ## Light, Reflectance and llluminance
 
 **Generating Digital Painting Lighting Effects via RGB-space Geometry.**<br>
