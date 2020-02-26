@@ -65,6 +65,11 @@ CVPR 2018. [[Project](https://senguptaumd.github.io/SfSNet/)] [[PDF](https://arx
 *Bernhard Egger, Sandro Schoenborn, Andreas Schneider, Adam Kortylewski, Andreas Morel-Forster, Clemens Blumer and Thomas Vetter.*<br>
 IJCV 2018. [[BIP Dataset](https://gravis.dmi.unibas.ch/PMM/data/bip/)] [[PDF](http://gravis.dmi.unibas.ch/publications/2018/2018_Egger_IJCV.pdf)]
 
+## Shape and Viewpoint
+**Self-supervised 3D Shape and Viewpoint Estimation from Single Images for Robotics.**<br>
+*Oier Mees, Maxim Tatarchenko, Thomas Brox and Wolfram Burgard.*<br>
+IROS 2019. [[PDF](https://arxiv.org/abs/1910.07948.pdf)]
+
 ## Clothed People Digitalization
 
 **Textured Neural Avatars.**<br>
