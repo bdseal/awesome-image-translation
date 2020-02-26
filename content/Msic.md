@@ -32,6 +32,18 @@ ECCV, 2018.
 
 ## Temporal- and Scale-Consistent Depth Estimation
 
+**DiverseDepth: Affine-invariant Depth Prediction Using Diverse Data.**<br>
+*Wei Yin, Xinlong Wang, Chunhua Shen, Yifan Liu, Zhi Tian, Songcen Xu, Changming Sun, Dou Renyin.*<br>
+arxiv, 3 Feb 2020. [[PDF](https://arxiv.org/abs/2002.00569)]
+
+**Towards Robust Monocular Depth Estimation: Mixing Datasets for Zero-shot Cross-dataset Transfer.**<br>
+*René Ranftl, Katrin Lasinger, David Hafner, Konrad Schindler, Vladlen Koltun.*<br>
+arxiv 2019. [[PDF](https://arxiv.org/abs/1907.01341)] [[Github](https://github.com/intel-isl/MiDaS)]
+
+**Enforcing Geometric Constraints of Virtual Normal for Depth Prediction.**<br>
+*Wei Yin, Yifan Liu, Chunhua Shen, Youliang Yan.*<br>
+ICCV 2019. [[PDF](https://arxiv.org/abs/1907.12209)] [[Project](https://tinyurl.com/virtualnormal)]
+
 **Neural RGB->D Sensing: Depth and Uncertainty from a Video Camera.**<br>
 *[Chao Liu](http://www.cs.cmu.edu/~ILIM/people/chaoliu1/), [Jinwei Gu](http://www.gujinwei.org/), [Kihwan Kim](https://research.nvidia.com/person/kihwan-kim), Srinivasa Narasimhan, [Jan Kautz](https://research.nvidia.com/person/jan-kautz).*<br>
 CVPR 2019. [[PDF](https://arxiv.org/abs/1901.02571)] [[Project](https://research.nvidia.com/publication/2019-06_Neural-RGBD)] [[Github](https://github.com/NVlabs/neuralrgbd)]
