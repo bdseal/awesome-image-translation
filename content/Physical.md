@@ -72,6 +72,10 @@ IROS 2019. [[PDF](https://arxiv.org/abs/1910.07948.pdf)]
 
 ## Clothed People Digitalization
 
+**PeelNet: Textured 3D reconstruction of human body using single view RGB image.**<br>
+*Sai Sagar Jinka, Rohan Chacko, Avinash Sharma, P. J. Narayanan.*<br>
+arxiv, 16 Feb 2020. [[PDF](https://arxiv.org/abs/2002.06664)]
+
 **Textured Neural Avatars.**<br>
 *Aliaksandra Shysheya, Egor Zakharov, Kara-Ali Aliev, Renat Bashirov, Egor Burkov, Karim Iskakov, Aleksei Ivakhnenko, Yury Malkov, Igor Pasechnik, Dmitry Ulyanov, Alexander Vakhitov, Victor Lempitsky.*<br>
 CVPR 2019 (oral). [[PDF](https://arxiv.org/abs/1905.08776)] [[Project](https://saic-violet.github.io/texturedavatar/)]
