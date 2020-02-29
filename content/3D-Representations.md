@@ -4,6 +4,14 @@ This Repo is a collection of papers on learning 3D representations from natural 
 
 ## 3D Shape Representation and Feature Embedding
 
+**Learning a Neural 3D Texture Space from 2D Exemplars.**<br>
+*Philipp Henzler, Niloy J. Mitra, Tobias Ritschel.*<br>
+CVPR 2020. [[PDF](https://arxiv.org/abs/1912.04158)] [[Project](https://geometry.cs.ucl.ac.uk/projects/2020/neuraltexture/)]
+
+**PolyGen: An Autoregressive Generative Model of 3D Meshes.**<br>
+*Charlie Nash, Yaroslav Ganin, S. M. Ali Eslami, Peter W. Battaglia.*<br>
+arxiv, 23 Feb 2020. [[PDF](https://arxiv.org/abs/2002.10880)]
+
 **Transformable Bottleneck Networks.** <br>
 *Kyle Olszewski, Sergey Tulyakov, Oliver Woodford, Hao Li, Linjie Luo.* <br>
 ICCV 2019. [[PDF](http://openaccess.thecvf.com/content_ICCV_2019/papers/Olszewski_Transformable_Bottleneck_Networks_ICCV_2019_paper.pdf)]

@@ -93,7 +93,7 @@ arxiv, 9 Jan 2020.
 
 **Face X-ray for More General Face Forgery Detection.**<br>
 *Lingzhi Li, Jianmin Bao, Ting Zhang, Hao Yang, Dong Chen, Fang Wen, Baining Guo.*<br>
-arrive, 31 Dec 2019. [[PDF](https://arxiv.org/abs/1912.13458)]
+CVPR 2020. [[PDF](https://arxiv.org/abs/1912.13458)]
 
 **FaceShifter: Towards High Fidelity And Occlusion Aware Face Swapping.**<br>
 *Lingzhi Li, Jianmin Bao, Hao Yang, Dong Chen, Fang Wen.*<br>
@@ -163,6 +163,20 @@ arxiv, 2018. [[PDF](https://arxiv.org/abs/1811.00249)]
 *[Peng Xu](http://www.pengxu.net/), [Chaitanya K. Joshi](https://chaitjo.github.io/), [Xavier Bresson](https://www.ntu.edu.sg/home/xbresson/).*<br>
 arxiv, 2019. [[PDF](https://arxiv.org/abs/1912.11258)] [[Github](https://github.com/PengBoXiangShang/multigraph_transformer)]
 
+## Guided Image Generation
+
+**ManiGAN: Text-Guided Image Manipulation.**<br>
+*[Bowen Li](https://mrlibw.github.io/), [Xiaojuan Qi](https://xjqi.github.io/), Thomas Lukasiewicz, Philip H. S. Torr.*<br>
+arxiv, 12 Dec 2019. [[PDF](https://arxiv.org/abs/1912.06203)]
+
+**Controllable Text-to-Image Generation.***<br>
+*Bowen Li, [Xiaojuan Qi](https://xjqi.github.io/), Thomas Lukasiewicz, Philip H. S. Torr.*<br>
+NeurIPS 2019. [[PDF](https://arxiv.org/abs/1909.07083)]
+
+**Disentangled Person Image Generation.**<br>
+*Liqian Ma, Qianru Sun, Stamatios Georgoulis, Luc Van Gool, Bernt Schiele, Mario Fritz.*<br>
+CVPR 2018. [[PDF](https://arxiv.org/abs/1712.02621)]
+
 ## Novel-View Synthesis
 [Novel-View Synthesis](https://paperswithcode.com/task/novel-view-synthesis/codeless)
 
@@ -202,6 +216,10 @@ arxiv, 26 Nov 2019.
 ## Motion Transfer & Retargeting & Reenactment & Dubbing & Animation
 
 [[awesome-human-motion](https://github.com/derikon/awesome-human-motion)]
+
+**Neural Human Video Rendering: Joint Learning of Dynamic Textures and Rendering-to-Video Translation.**<br>
+*Lingjie Liu, Weipeng Xu, Marc Habermann, Michael Zollhoefer, Florian Bernard, Hyeongwoo Kim, Wenping Wang, Christian Theobalt.*<br>
+arxiv, 14 Jan 2020. [[PDF](https://arxiv.org/abs/2001.04947)]
 
 **Deferred Neural Rendering: Image Synthesis using Neural.**<br>
 *Justus Thies, Michael Zollhöfer, Matthias Nießner.*<br>
@@ -252,6 +270,14 @@ CVPR 2019 (oral). [[PDF](https://arxiv.org/abs/1905.08776)] [[Project](https://s
 arxiv, 25 Nov 2019. [[PDF](https://arxiv.org/abs/1911.10672)]
 
 ## Frame Interpolation, Videos Generation and Video Prediction
+
+**Blurry Video Frame Interpolation.**<br>
+*Wang Shen, Wenbo Bao, Guangtao Zhai, Li Chen, Xiongkuo Min, Zhiyong Gao.*<br>
+CVPR 2020. [[PDF](https://arxiv.org/abs/2002.12259)]
+
+**Zooming Slow-Mo: Fast and Accurate One-Stage Space-Time Video Super-Resolution.**<br>
+*Xiaoyu Xiang, Yapeng Tian, Yulun Zhang, Yun Fu, Jan P. Allebach, Chenliang Xu.*<br>
+CVPR 2020. [[PDF](https://arxiv.org/abs/2002.11616)]
 
 **Eidetic 3D LSTM: A Model for Video Prediction and Beyond.**<br>
 *Yunbo Wang, Lu Jiang, Ming-Hsuan Yang, Li-Jia Li, Mingsheng Long, Li Fei-Fei.*<br>

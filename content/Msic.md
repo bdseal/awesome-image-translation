@@ -185,6 +185,15 @@ ACM Transactions on Graphics (TOG) 2012.
 arxiv, 5 Dec 2019. [[PDF](https://arxiv.org/abs/1912.02792v1)]
 
 ## Restoration with Unpair or Misaligned Data
+
+**EEMEFN: Low-Light Image Enhancement via Edge-Enhanced Multi-Exposure Fusion Network.**<br>
+*Minfeng Zhu, Pingbo Pan, Wei Chen, Yi Yang.*<br>
+AAAI 2020. [[PDF](http://www.cad.zju.edu.cn/home/vagblog/VAG_Work/EEMEFN-Low%20Light%20Image%20Enhancement%20via%20Edge%20Enhanced%20MultiExposure%20Fusion%20Network.pdf)]
+
+**Meta-Transfer Learning for Zero-Shot Super-Resolution.**<br>
+*Jae Woong Soh, Sunwoo Cho, Nam Ik Cho.*<br>
+CVPR 2020. [[PDF](https://arxiv.org/abs/2002.12213)]
+
 **Replacing Mobile Camera ISP with a Single Deep Learning Model.**<br>
 *Andrey Ignatov, Luc Van Gool, Radu Timofte.* <br>
 arxiv, 13 Feb 2020. [[PDF](https://arxiv.org/abs/2002.05509)] [[Github](https://github.com/aiff22/PyNET)] [[Project](http://people.ee.ethz.ch/~ihnatova/pynet.html)]

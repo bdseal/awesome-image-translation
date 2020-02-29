@@ -307,10 +307,6 @@ ECCV 2018. [[PDF](https://arxiv.org/abs/1804.03343)]
 *Jichao Zhang, Yezhi Shu, Songhua Xu, Gongze Cao, Fan Zhong, Xueying Qin.*<br>
 ACM MM 2018. [[PDF](https://arxiv.org/abs/1805.07509)] [[Github](https://github.com/zhangqianhui/Sparsely-Grouped-GAN)] 
 
-**GANimation: Anatomically-aware Facial Animation from a Single Image.**<br> 
-*Albert Pumarola, Antonio Agudo, Aleix M. Martinez, Alberto Sanfeliu, Francesc Moreno-Noguer.*<br>
-ECCV 2018. [[PDF](https://arxiv.org/abs/1807.09251)] [[Github](https://github.com/albertpumarola/GANimation)] 
-
 **SingleGAN: Image-to-Image Translation by a Single-Generator Network using Multiple Generative Adversarial Learning.**<br>
 *Xiaoming Yu, Xing Cai, Zhenqiang Ying, Thomas Li, Ge Li.*<br>
 ACCV 2018. [[PDF](https://arxiv.org/abs/1810.04991)] [[Github](https://github.com/Xiaoming-Yu/SingleGAN)] 
@@ -342,6 +338,19 @@ International Conference on Multimedia Modeling (MMM 2020). [[PDF](https://arxiv
 **injectionGAN: Toward Learning a Unified Many-to-Many Mapping for Diverse Image Translation.** <br>
 *Wenju Xu, Shawn Keshmiri, Guanghui Wang.* <br>
 arxiv 2019. [[PDF](https://arxiv.org/abs/1905.08766)]
+
+## Continous Change
+
+**GANHopper: Multi-Hop GAN for Unsupervised Image-to-Image Translation.**<br>
+*Wallace Lira, Johannes Merz, Daniel Ritchie, Daniel Cohen-Or, Hao Zhang.*<br><br>
+arxiv, 24 Feb 2020, [[PDF](https://arxiv.org/abs/2002.10102)]
+
+**Homomorphic Latent Space Interpolation for Unpaired Image-To-Image Translation.** [[PDF](http://openaccess.thecvf.com/content_CVPR_2019/html/Chen_Homomorphic_Latent_Space_Interpolation_for_Unpaired_Image-To-Image_Translation_CVPR_2019_paper.html)] [[Github](https://github.com/yingcong/HomoInterpGAN)]<br>
+*[Ying-Cong Chen](https://yingcong.github.io/), Xiaogang Xu, Zhuotao Tian, Jiaya Jia.*<br>
+
+**GANimation: Anatomically-aware Facial Animation from a Single Image.**<br> 
+*Albert Pumarola, Antonio Agudo, Aleix M. Martinez, Alberto Sanfeliu, Francesc Moreno-Noguer.*<br>
+ECCV 2018. [[PDF](https://arxiv.org/abs/1807.09251)] [[Github](https://github.com/albertpumarola/GANimation)] 
 
 ## Applications
 

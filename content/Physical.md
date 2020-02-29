@@ -18,7 +18,15 @@ arxiv, 26 Jan 2020. [[PDF](https://arxiv.org/abs/2001.09518)]
 *Antoni Rosinol, Arjun Gupta, Marcus Abate, Jingnan Shi, Luca Carlone.*<br>
 arxiv, 15 Feb 2020. [[PDF](https://arxiv.org/abs/2002.06289)]
 
-## Light, Reflectance and llluminance
+**Total3DUnderstanding: Joint Layout, Object Pose and Mesh Reconstruction for Indoor Scenes from a Single Image.**<br>
+*Yinyu Nie, Xiaoguang Han, Shihui Guo, Yujian Zheng, Jian Chang, Jian Jun Zhang.*<br>
+CVPR 2020. [[PDF](https://arxiv.org/abs/2002.12212)]
+
+## Light, Reflectance, lluminance and Shade
+
+**Learning to Shade Hand-drawn Sketches.**<br>
+*Qingyuan Zheng, Zhuoru Li, Adam Bargteil.*<br>
+CVPR 2020. [[PDF](https://arxiv.org/abs/2002.11812)]
 
 **Generating Digital Painting Lighting Effects via RGB-space Geometry.**<br>
 *Lvmin Zhang, Edgar Simo-Serra, Yi Ji, and Chunping Liu.*<br>
