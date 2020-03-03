@@ -208,7 +208,11 @@ ACM Trans. Graphics (Proc. SIGGRAPH Asia) 2016. [[PDF](http://files.is.tue.mpg.d
 
 ### Msic (Face, Object)
 
-**Multi-layer Depth and Epipolar Feature Transformers for 3D Scene Reconstruction.** <br>
+**Inverse Graphics GAN: Learning to Generate 3D Shapes from Unstructured 2D Data.**<br>
+*Sebastian Lunz, Yingzhen Li, Andrew Fitzgibbon, Nate Kushman.*<br>
+arxiv, 28 Feb 2020. [[PDF](https://arxiv.org/abs/2002.12674)]
+
+**Multi-layer Depth and Epipolar Feature Transformers for 3D Scene Reconstruction.**<br>
 *Daeyun Shin, Zhile Ren, Erik B. Sudderth, Charless C. Fowlkes.* <br>
 CVPR 2019. [[PDF](http://openaccess.thecvf.com/content_CVPRW_2019/papers/SUMO/Shin_Multi-layer_Depth_and_Epipolar_Feature_Transformers_for_3D_Scene_Reconstruction_CVPRW_2019_paper.pdf)]
 
