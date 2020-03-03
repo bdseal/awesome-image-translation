@@ -67,6 +67,10 @@ Eurographics 2019. [[PDF](https://arxiv.org/pdf/1808.06847.pdf)]
 [[FaceForensics Benchmark](http://kaldir.vc.in.tum.de/faceforensics_benchmark/)]
 [[awesome-deepfakes-materials](https://github.com/datamllab/awesome-deepfakes-materials)]
 
+**Adversarial Deepfakes: Evaluating Vulnerability of Deepfake Detectors to Adversarial Examples.**<br>
+*Paarth Neekhara, Shehzeen Hussain, Malhar Jere, Farinaz Koushanfar, Julian McAuley.*<br>
+arxiv,  9 Feb 2020. [[PDF](https://arxiv.org/abs/2002.12749)]
+
 **Real or Not Real, that is the Question.**<br>
 Yuanbo Xiangli*, Yubin Deng*, Bo Dai*, Chen Change Loy, Dahua Lin.*<br>
 ICLR 2020. [[PDF](https://openreview.net/forum?id=B1lPaCNtPB)] [[Github](https://github.com/kam1107/RealnessGAN)] 
@@ -141,6 +145,10 @@ arxiv, 17 Jan 2019. [[PDF](https://arxiv.org/abs/2001.06265)]
 Workshop on Computer Vision for Fashion, Art and Design, ICCV 2019. [[PDF](https://arxiv.org/abs/1908.09638)] 
 
 ## Free-Hand Sketch
+
+**Sketch-to-Art: Synthesizing Stylized Art Images From Sketches.**<br> 
+*Bingchen Liu, Kunpeng Song, Ahmed Elgammal.*<br> 
+arxiv, 26 Feb 2020. [[PDF](https://arxiv.org/abs/2002.12888)]
 
 **Deep Plastic Surgery: Robust and Controllable Image Editing with Human-Drawn Sketches.**<br>
 *Shuai Yang, Zhangyang Wang, Jiaying Liu, Zongming Guo.*<br>
