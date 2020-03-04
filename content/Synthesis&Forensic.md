@@ -72,7 +72,7 @@ Eurographics 2019. [[PDF](https://arxiv.org/pdf/1808.06847.pdf)]
 arxiv,  9 Feb 2020. [[PDF](https://arxiv.org/abs/2002.12749)]
 
 **Real or Not Real, that is the Question.**<br>
-Yuanbo Xiangli*, Yubin Deng*, Bo Dai*, Chen Change Loy, Dahua Lin.*<br>
+*Yuanbo Xiangli, Yubin Deng, Bo Dai, Chen Change Loy, Dahua Lin.*<br>
 ICLR 2020. [[PDF](https://openreview.net/forum?id=B1lPaCNtPB)] [[Github](https://github.com/kam1107/RealnessGAN)] 
 
 **Fawkes: Protecting Personal Privacy against Unauthorized Deep Learning Models.**<br>
@@ -177,7 +177,7 @@ arxiv, 2019. [[PDF](https://arxiv.org/abs/1912.11258)] [[Github](https://github.
 *[Bowen Li](https://mrlibw.github.io/), [Xiaojuan Qi](https://xjqi.github.io/), Thomas Lukasiewicz, Philip H. S. Torr.*<br>
 arxiv, 12 Dec 2019. [[PDF](https://arxiv.org/abs/1912.06203)]
 
-**Controllable Text-to-Image Generation.***<br>
+**Controllable Text-to-Image Generation.**<br>
 *Bowen Li, [Xiaojuan Qi](https://xjqi.github.io/), Thomas Lukasiewicz, Philip H. S. Torr.*<br>
 NeurIPS 2019. [[PDF](https://arxiv.org/abs/1909.07083)]
 
