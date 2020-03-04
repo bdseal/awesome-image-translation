@@ -635,7 +635,11 @@ CVPR 2019. [[PDF](http://www.idiap.ch/~odobez/publications/YuLiuOdobez-CVPR2019.
 
 **DeepWarp: Photorealistic Image Resynthesis for Gaze Manipulation.**<br>
 *Yaroslav Ganin, Daniil Kononenko, Diana Sungatullina, Victor Lempitsky.* <br>
-ECCV 2016. [[PDF](https://perceptual.mpi-inf.mpg.de/files/2018/03/wood18_eg.pdf)] [[Project](http://sites.skoltech.ru/compvision/projects/deepwarp/)]
+ECCV 2016. [[PDF](http://sites.skoltech.ru/compvision/projects/deepwarp/files/deepwarp_eccv2016.pdf)] [[Project](http://sites.skoltech.ru/compvision/projects/deepwarp/)]
+
+**GazeDirector: Fully Articulated Eye Gaze Redirection in Video.**<br>
+*Erroll Wood, Tadas Baltrusaitis, Louis-Philippe Morency, Peter Robinson, Andreas Bulling.*<br>
+ Eurographics 2018 (Best Paper Honourable Mention Award). [[PDF](https://perceptual.mpi-inf.mpg.de/files/2018/03/wood18_eg.pdf)] 
 
 **An Eye For An Eye: A Single Camera Gaze-Replacement Method.**<br>
 *[Lior Wolf](http://www.cs.tau.ac.il/~wolf/), Ziv Freund, Shai Avidan.* <br>
