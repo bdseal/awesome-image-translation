@@ -156,7 +156,7 @@ arxiv, 11 Dec 2019. [[PDF](https://arxiv.org/abs/1912.05656)]
 
 **Learning 3D Human Dynamics from Video.**<br>
 *Angjoo Kanazawa, Jason Y. Zhang, Panna Felsen, Jitendra Malik.* <br>
-CVPR 2019. [[PDF]](https://arxiv.org/abs/1812.01601)] [[HomePage](https://akanazawa.github.io/human_dynamics/)]
+CVPR 2019. [[PDF](https://arxiv.org/abs/1812.01601)] [[HomePage](https://akanazawa.github.io/human_dynamics/)]
 
 **Predicting 3D Human Dynamics from Video.** <br>
 *Jason Y. Zhang, Panna Felsen, Angjoo Kanazawa, Jitendra Malik.*<br>
@@ -677,7 +677,7 @@ CVPR 2019. [[PDF](https://www.semanticscholar.org/paper/Generalizing-Eye-Trackin
 
 **Gaze Correction for Home Video Conferencing.**<br>
 *C. Kuster, T. Popa, J.C. Bazin, C. Gotsman, M. Gross.* <br>
-ACM TOG 2012.  [[PDF](https://cgl.ethz.ch/disclaimer.php?dlurl=/Downloads/Publications/Papers/2012/Kus12/Kus12.pdf) [[CGL ETHZ]](https://cgl.ethz.ch/publications/papers/paperKus12.php)]
+ACM TOG 2012.  [[PDF](https://cgl.ethz.ch/disclaimer.php?dlurl=/Downloads/Publications/Papers/2012/Kus12/Kus12.pdf)] [[CGL ETHZ](https://cgl.ethz.ch/publications/papers/paperKus12.php)]
 
 **Eye Gaze Correction with Stereovision For Video-teleconferencing.**<br>
 *Ruigang Yang, Zhengyou Zhang.* <br>
