@@ -538,10 +538,6 @@ ACM Transaction on Graphics (SIGGRAPH Asia 2018). [[PDF](http://www.hao-li.com/p
 IEEE Trans. CSVT 2019. [[Project](https://www.yangangwang.com/papers/WANG-MCC-2018-10.html)]
 [[PDF](http://www.liuyebin.com/hand2d/hand2d.pdf)] 
 
-**Few-Shot Adaptive Gaze Estimation.**<br>
-*Seonwook Park, Shalini De Mello, Pavlo Molchanov, Umar Iqbal, Otmar Hilliges, Jan Kautz.* <br>
-ICCV 2019. [[PDF](http://openaccess.thecvf.com/content_ICCV_2019/papers/Park_Few-Shot_Adaptive_Gaze_Estimation_ICCV_2019_paper.pdf)]
-
 ## 3D Representations From Natural Images
 
 **Face Video Deblurring Using 3D Facial Priors.**<br>
@@ -619,6 +615,10 @@ CVPR Workshop, 2017. [[PDF]](https://perceptual.mpi-inf.mpg.de/files/2017/05/zha
 *Yusuke Sugano, Yasuyuki Matsushita, Yoichi Sato.*<br>
 CVPR 2014. [[PDF](https://www.cv-foundation.org/openaccess/content_cvpr_2014/papers/Sugano_Learning-by-Synthesis_for_Appearance-based_2014_CVPR_paper.pdf)] [[UT Dataset](www.hci.iis.u-Tokyo.ac.jp/datasets)]
 
+**Monocular Free-head 3D Gaze Tracking with Deep Learning and Geometry Constraints.**
+*Haoping Deng, Wangjiang Zhu.*
+ICCV 2017. [[PDF](http://openaccess.thecvf.com/content_ICCV_2017/papers/Zhu_Monocular_Free-Head_3D_ICCV_2017_paper.pdf)]
+
 ### Gaze Redirection
 
 **Photo-Realistic Monocular Gaze Redirection Using Generative Adversarial Networks.** <br>
@@ -648,6 +648,7 @@ CVPR 2010. [[PDF](http://www.cs.tau.ac.il/~wolf/papers/eyes_cameraready.pdf)]
 ### Gaze Estimation
 
 **FAZE: Few-Shot Adaptive Gaze Estimation.**<br>
+*Seonwook Park, Shalini De Mello, Pavlo Molchanov, Umar Iqbal, Otmar Hilliges, Jan Kautz.*<br>
 ICCV 2019. [[PDF](http://openaccess.thecvf.com/content_ICCV_2019/papers/Park_Few-Shot_Adaptive_Gaze_Estimation_ICCV_2019_paper.pdf)] [[Preprocess](github.com/swook/faze_preprocess)] [[Github](https://github.com/NVlabs/few_shot_gaze)] [[ETH Zurich](https://ait.ethz.ch/projects/2019/faze/)] [[Nvidia](https://research.nvidia.com/publication/2019-10_Few-Shot-Adaptive-Gaze)]
 
 **Gaze360: Physically Unconstrained Gaze Estimation in the Wild.**<br>
@@ -663,7 +664,9 @@ CVPR 2019. [[PDF](http://openaccess.thecvf.com/content_CVPR_2019/papers/Xiong_Mi
 ECCV 2018. [[PDF](http://openaccess.thecvf.com/content_ECCV_2018/papers/Seonwook_Park_Deep_Pictorial_Gaze_ECCV_2018_paper.pdf)] 
 
 **RTGENE: Real-Time Gaze Estimation in Natural Environments.**<br>
+*Tobias Fischer, Hyung Jin Chang,Yiannis Demiris.*<br>
 ECCV 2018. [[PDF](http://openaccess.thecvf.com/content_ECCV_2018/papers/Tobias_Fischer_RT-GENE_Real-Time_Eye_ECCV_2018_paper.pdf)]
+[[Github](https://github.com/Tobias-Fischer/rt_gene)]
 
 ### Eye Tracking
 
