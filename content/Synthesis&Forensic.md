@@ -67,6 +67,10 @@ Eurographics 2019. [[PDF](https://arxiv.org/pdf/1808.06847.pdf)]
 [[FaceForensics Benchmark](http://kaldir.vc.in.tum.de/faceforensics_benchmark/)]
 [[awesome-deepfakes-materials](https://github.com/datamllab/awesome-deepfakes-materials)]
 
+**Disrupting DeepFakes: Adversarial Attacks Against Conditional Image Translation Networks and Facial Manipulation Systems.**<br>
+*Nataniel Ruiz, Stan Sclaroff.*<br>
+arxiv, 3 Mar 2020. [[PDF](https://arxiv.org/abs/2003.01279)]
+
 **Adversarial Deepfakes: Evaluating Vulnerability of Deepfake Detectors to Adversarial Examples.**<br>
 *Paarth Neekhara, Shehzeen Hussain, Malhar Jere, Farinaz Koushanfar, Julian McAuley.*<br>
 arxiv,  9 Feb 2020. [[PDF](https://arxiv.org/abs/2002.12749)]
