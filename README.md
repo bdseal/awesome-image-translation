@@ -156,7 +156,6 @@ arxiv, 15 Apr 2019. [[PDF](https://arxiv.org/abs/1904.06913)]
 **Unsupervised Shape Transformer for Image Translation and Cross-Domain Retrieval.**<br> 
 *Kaili Wang, [Liqian Ma](https://homes.esat.kuleuven.be/~liqianma/), Jose Oramas M., Luc Van Gool, Tinne Tuytelaars.*<br>
 arxiv, 5 Dec 2018. [[PDF](http://homes.esat.kuleuven.be/~liqianma/pdf/Arxiv18_Unsupervised_shap_transformer_for_image_translation_and_cross-domain_retrieval.pdf)]   
-
 **A Novel BiLevel Paradigm for Image-to-Image Translation.**<br> 
 *Liqian Ma, Qianru Sun, Bernt Schiele, Luc Van Gool.*<br>
 arxiv, 8 Apr 2019. [[PDF](http://homes.esat.kuleuven.be/~liqianma/pdf/Arxiv19_A_Novel_BiLevel_Paradigm_for_Image-to-Image_Translation.pdf)] 
@@ -164,6 +163,10 @@ arxiv, 8 Apr 2019. [[PDF](http://homes.esat.kuleuven.be/~liqianma/pdf/Arxiv19_A_
 **AGUIT: Attribute Guided Unpaired Image-to-Image Translation with Semi-supervised Learning.**<br> 
 *Xinyang Li, Jie Hu, Shengchuan Zhang, Xiaopeng Hong, Qixiang Ye, Chenglin Wu, Rongrong Ji.*<br>
 arxiv, 29 Apr 2019. [[PDF](https://arxiv.org/abs/1904.12428)] [[Github](https://github.com/imlixinyang/AGUIT)]
+
+**Augmented Cyclic Consistency Regularization for Unpaired Image-to-Image Translation.**<br>
+*Takehiko Ohkawa, Naoto Inoue, Hirokatsu Kataoka, Nakamasa Inoue.*<br>
+arxiv, 29 Feb 2020. [[PDF](https://arxiv.org/abs/2003.00187)]
 
 ### Text-Attention-Examplar-Guided
 
@@ -430,6 +433,10 @@ CVPR 2019. [[PDF](https://arxiv.org/abs/1904.07223)] [[Github](https://github.co
 ICCV 2019. [[PDF](https://arxiv.org/abs/1907.10804)] [[Github](https://github.com/huawei-noah/GAN-pruning)] 
 
 ### Adversarial-Examples
+
+**Disrupting DeepFakes: Adversarial Attacks Against Conditional Image Translation Networks and Facial Manipulation Systems.**<br>
+*Nataniel Ruiz, Stan Sclaroff.*<br>
+arxiv, 3 Mar 2020. [[PDF](https://arxiv.org/abs/2003.01279)]
 
 **Adversarial Self-Defense for Cycle-Consistent GANs.** <br>
 *Dina Bashkirova, Ben Usman, Kate Saenko.*<br>
