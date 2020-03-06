@@ -136,6 +136,10 @@ ECCV 2018. [[Github](https://github.com/minyoungg/selfconsistency)] [[Project](h
 
 ## Image-Based Virtual Try-On
 
+**GarmentGAN: Photo-realistic Adversarial Fashion Transfer.**<br>
+*Amir Hossein Raffiee, Michael Sollami.*<br>
+arxiv, 4 Mar 2020. [[PDF](https://arxiv.org/abs/2003.01894)]
+
 **TailorGAN: Making User-Defined Fashion Designs.**<br>
 *Lele Chen, Justin Tian, Guo Li, Cheng-Haw Wu, Erh-Kan King, Kuan-Ting Chen, Shao-Hang Hsieh.*<br>
 arxiv, 17 Jan 2019. [[PDF](https://arxiv.org/abs/2001.06427)]
