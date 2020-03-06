@@ -80,6 +80,10 @@ IROS 2019. [[PDF](https://arxiv.org/abs/1910.07948.pdf)]
 
 ## Clothed People Digitalization
 
+**Learning to Transfer Texture from Clothing Images to 3D Humans.**<br>
+*Aymen Mir, Thiemo Alldieck, Gerard Pons-Moll.*<br>
+arxiv, 4 Mar 2020. [[PDF](https://arxiv.org/abs/2003.02050)]
+
 **PeelNet: Textured 3D reconstruction of human body using single view RGB image.**<br>
 *Sai Sagar Jinka, Rohan Chacko, Avinash Sharma, P. J. Narayanan.*<br>
 arxiv, 16 Feb 2020. [[PDF](https://arxiv.org/abs/2002.06664)]
@@ -175,6 +179,14 @@ SIGGRAPH 2019. [[PDF](https://gvv.mpi-inf.mpg.de/projects/LiveCap/)] [[Project](
 TPAMI 2019 (ICCV 2017). [[PDF](https://arxiv.org/abs/1911.09092)] 
 
 ### Human Poses and Shapes
+
+**MoVi: A Large Multipurpose Motion and Video Dataset.**<br>
+*Saeed Ghorbani, Kimia Mahdaviani, Anne Thaler, Konrad Kording, Douglas James Cook, Gunnar Blohm, Nikolaus F. Troje.*<br>
+arxiv, 4 Mar 2020. [[PDF](https://arxiv.org/abs/2003.01888)]
+
+**Chained Representation Cycling: Learning to Estimate 3D Human Pose and Shape by Cycling Between Representations.**<br>
+*Nadine Rueegg, Christoph Lassner, Michael J. Black, Konrad Schindler.*<br>
+AAAI 2020. [[PDF](https://arxiv.org/abs/2001.01613)]
 
 **A Skeleton-bridged Deep Learning Approach for Generating Meshes of Complex Topologies from Single RGB Images.**<br>
 *Jiapeng Tang, Xiaoguang Han, Junyi Pan, Kui Jia, Xin Tong.*<br>
