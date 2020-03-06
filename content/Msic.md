@@ -32,6 +32,10 @@ ECCV, 2018.
 
 ## Temporal- and Scale-Consistent Depth Estimation
 
+**Predicting Sharp and Accurate Occlusion Boundaries in Monocular Depth Estimation Using Displacement Fields.**<br>
+*Michael Ramamonjisoa, Yuming Du, Vincent Lepetit..*<br>
+CVPR 2020. [[PDF](https://arxiv.org/abs/2002.12730)]
+
 **DiverseDepth: Affine-invariant Depth Prediction Using Diverse Data.**<br>
 *Wei Yin, Xinlong Wang, Chunhua Shen, Yifan Liu, Zhi Tian, Songcen Xu, Changming Sun, Dou Renyin.*<br>
 arxiv, 3 Feb 2020. [[PDF](https://arxiv.org/abs/2002.00569)]
@@ -159,6 +163,10 @@ ICCV 2019.
 [[Project](https://cvlab.epfl.ch/research/garment-simulation/garnet/)] [[Dataset](https://drive.switch.ch/index.php/s/7mAk9SoZ7J4uokt)]
 
 ## 3D Clothing Draping & 3D People Dressing
+
+**Learning to Transfer Texture from Clothing Images to 3D Humans.**<br>
+*Aymen Mir, Thiemo Alldieck, Gerard Pons-Moll.*<br>
+arxiv, 4 Mar 2020. [[PDF](https://arxiv.org/abs/2003.02050)]
 
 **GarNet: A Two-Stream Network for Fast and Accurate 3D Cloth Draping.**<br>
 *[Erhan Gundogdu](https://egundogdu.github.io/), Victor Constantin, Amrollah Seifoddini, Minh Dang, Mathieu Salzmann, Pascal Fua.*<br>
