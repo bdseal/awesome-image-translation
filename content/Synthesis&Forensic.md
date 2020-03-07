@@ -2,6 +2,10 @@
 
 ## Diving Deep into Image Synthesis
 
+**LAG: Creating High Resolution Images with a Latent Adversarial Generator.**<br>
+*David Berthelot, Peyman Milanfar, Ian Goodfellow.*<br>
+arxiv, 4 Mar 2020. [[PDF](https://arxiv.org/abs/2003.02365)] [[Github](https://github.com/google-research/lag)]
+
 **StyleGAN2: Analyzing and Improving the Image Quality of StyleGAN.**<br>
 *[Tero Karras](https://research.nvidia.com/person/tero-karras), [Samuli Laine](https://research.nvidia.com/person/samuli-laine), [Miika Aittala](https://research.nvidia.com/person/miika-aittala), Janne Hellsten, Jaakko Lehtinen, [Timo Aila](https://research.nvidia.com/person/timo-aila).*<br>
 arxiv, 3 Dec 2019.
@@ -153,6 +157,10 @@ arxiv, 17 Jan 2019. [[PDF](https://arxiv.org/abs/2001.06265)]
 Workshop on Computer Vision for Fashion, Art and Design, ICCV 2019. [[PDF](https://arxiv.org/abs/1908.09638)] 
 
 ## Free-Hand Sketch
+
+**Image Generation from Freehand Scene Sketches.**<br> 
+*Chengying Gao, Qi Liu, Qi Xu, Jianzhuang Liu, Limin Wang, Changqing Zou.*<br> 
+arxiv，5 Mar 2020. [[PDF](https://arxiv.org/abs/2003.02683)]
 
 **Sketch-to-Art: Synthesizing Stylized Art Images From Sketches.**<br> 
 *Bingchen Liu, Kunpeng Song, Ahmed Elgammal.*<br> 
