@@ -4,6 +4,10 @@ This Repo is a collection of papers on learning 3D representations from natural 
 
 ## 3D Shape Representation and Feature Embedding
 
+**3D-MiniNet: Learning a 2D Representation from Point Clouds for Fast and Efficient 3D LIDAR Semantic Segmentation.**<br>
+*Iñigo Alonso, Luis Riazuelo, Luis Montesano, Ana C. Murillo.*<br>
+arxiv, 25 Feb 2020. [[PDF](https://arxiv.org/abs/2002.10893)]
+
 **Learning a Neural 3D Texture Space from 2D Exemplars.**<br>
 *Philipp Henzler, Niloy J. Mitra, Tobias Ritschel.*<br>
 CVPR 2020. [[PDF](https://arxiv.org/abs/1912.04158)] [[Project](https://geometry.cs.ucl.ac.uk/projects/2020/neuraltexture/)]
