@@ -357,6 +357,16 @@ ECCV 2018. [[PDF](https://arxiv.org/abs/1807.09251)] [[Github](https://github.co
 
 ## Applications
 
+### Image Restoration
+
+**Pose Agnostic Cross-spectral Hallucination via Disentangling Independent Factors.**<br>
+*Boyan Duan, Chaoyou Fu, Yi Li, Xingguang Song, Ran He.*<br>
+CVPR 2020. [[PDF](https://arxiv.org/abs/1909.04365)]
+
+**Unsupervised Domain-Specific Deblurring via Disentangled Representations.**<br>
+*Boyu Lu, Jun-Cheng Chen, Rama Chellappa.*<br>
+CVPR 2019. [[PDF](https://arxiv.org/abs/1903.01594)] [[Github](https://github.com/ustclby/Unsupervised-Domain-Specific-Deblurring/)]
+
 ### Attribute-Editing
 
 **BeautyGAN: Instance-level Facial Makeup Transfer with Deep Generative Adversarial Network.**<br>
