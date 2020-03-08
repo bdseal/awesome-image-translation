@@ -140,6 +140,10 @@ ECCV 2018. [[Github](https://github.com/minyoungg/selfconsistency)] [[Project](h
 
 ## Image-Based Virtual Try-On
 
+**PSGAN: Pose and Expression Robust Spatial-Aware GAN for Customizable Makeup Transfer.**<br>
+*Wentao Jiang, Si Liu, Chen Gao, Jie Cao, Ran He, Jiashi Feng, Shuicheng Yan.*<br>
+CVPR2020. [[PDF](https://arxiv.org/abs/1909.06956)]
+
 **GarmentGAN: Photo-realistic Adversarial Fashion Transfer.**<br>
 *Amir Hossein Raffiee, Michael Sollami.*<br>
 arxiv, 4 Mar 2020. [[PDF](https://arxiv.org/abs/2003.01894)]
