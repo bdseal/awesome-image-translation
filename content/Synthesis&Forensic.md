@@ -346,6 +346,11 @@ CVPR 2018. [[PDF](https://arxiv.org/abs/1712.00080)] [[Project](https://people.c
 [[pliang279/awesome-multimodal-ml](https://github.com/pliang279/awesome-multimodal-ml)]</br>
 
 ### Voice-to-Voice
+
+**REMI: Pop Music Transformer: Generating Music with Rhythm and Harmony.**<br>
+*Yu-Siang Huang, Yi-Hsuan Yang.*<br>
+arxiv, 1 Feb 2020. [[PDF](https://arxiv.org/abs/2002.00212)] [[Github](https://github.com/YatingMusic/remi)] [[Demo](http://vibertthio.com/transformer/)]
+
 **Speech-to-Singing Conversion in an Encoder-Decoder Framework.**<br>
 *Jayneel Parekh, Preeti Rao, Yi-Hsuan Yang.*<br>
 ICASSP 2020. 
