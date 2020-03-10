@@ -168,6 +168,9 @@ arxiv, 29 Apr 2019. [[PDF](https://arxiv.org/abs/1904.12428)] [[Github](https://
 *Takehiko Ohkawa, Naoto Inoue, Hirokatsu Kataoka, Nakamasa Inoue.*<br>
 arxiv, 29 Feb 2020. [[PDF](https://arxiv.org/abs/2003.00187)]
 
+**NICE: Reusing Discriminators for Encoding: Towards Unsupervised Image-to-Image Translation.**<br>
+*Runfa Chen, Wenbing Huang, Binghui Huang, Fuchun Sun, Bin Fang.*<br>
+CVPR 2020. [[PDF](https://arxiv.org/abs/2003.00273)] [[Github](https://github.com/alpc91/NICE-GAN-pytorch)]
 ### Text-Attention-Examplar-Guided
 
 **Image-to-Image Translation with Text Guidance.**<br>
