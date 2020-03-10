@@ -2,6 +2,14 @@
 
 ## Diving Deep into Image Synthesis
 
+**ClearGrasp: 3D Shape Estimation of Transparent Objects for Manipulation.**<br>
+*Shreeyak S. Sajjan, Matthew Moore, Mike Pan, Ganesh Nagaraja, Johnny Lee, Andy Zeng, Shuran Song.*<br>
+[[PDF](https://arxiv.org/abs/1910.02550)] [[Github](https://github.com/Shreeyak/cleargrasp)] [[Project](https://sites.google.com/view/cleargrasp)]
+
+**StyleGAN2 Distillation for Feed-forward Image Manipulation.**<br>
+*Yuri Viazovetskyi, Vladimir Ivashkin, Evgeny Kashin.*<br>
+arxiv, 7 Mar 2020. [[PDF](https://arxiv.org/abs/2003.03581)] [[Github](https://github.com/EvgenyKashin/stylegan2-distillation)]
+
 **LAG: Creating High Resolution Images with a Latent Adversarial Generator.**<br>
 *David Berthelot, Peyman Milanfar, Ian Goodfellow.*<br>
 arxiv, 4 Mar 2020. [[PDF](https://arxiv.org/abs/2003.02365)] [[Github](https://github.com/google-research/lag)]
@@ -321,6 +329,11 @@ ICCV 2019. [[PDF](http://openaccess.thecvf.com/content_ICCV_2019/papers/Huang_ST
 [[GitHub](https://github.com/huang-xx/STGAT)] [[Social GAN](https://github.com/agrimgupta92/sgan)]
 
 ## Frame Interpolation and Videos Generation
+
+**AdaCoF: Adaptive Collaboration of Flows for Video Frame Interpolation.**<br>
+*[Hyeongmin Lee](https://hyeongminlee.github.io/), [Taeoh Kim](https://taeoh-kim.github.io/), Tae-young Chung, Daehyun Pak, Yuseok Ban, and Sangyoun Lee.*<br>
+CVPR 2020.
+[[PDF](https://arxiv.org/abs/1907.10244)] [[Video](https://www.youtube.com/watch?v=Z3q0YrBsNJc)] [[Github](https://github.com/HyeongminLEE/AdaCoF-pytorch)]
 
 **Blurry Video Frame Interpolation.**<br>
 *Wang Shen, Wenbo Bao, Guangtao Zhai, Li Chen, Xiongkuo Min, Zhiyong Gao.*<br>
