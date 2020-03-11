@@ -54,6 +54,10 @@ ICCV 2019. [[PDF](http://www.wisdom.weizmann.ac.il/~vision/ingan/resources/ingan
 *Rameen Abdal, Yipeng Qin, Peter Wonka.*<br>
 ICCV 2019. [[PDF](https://arxiv.org/abs/1904.03189)]
 
+**Image2StyleGAN++: How to Edit the Embedded Images?**<br>
+*Rameen Abdal, Yipeng Qin, Peter Wonka.*<br>
+arxiv, 26 Nov 2019. [[PDF](https://arxiv.org/abs/1911.11544)]
+
 **Improving sample diversity of a pre-trained, class-conditional GAN by changing its class embeddings.**<br>
 *Qi Li, Long Mai, Anh Nguyen.*<br>
 arxiv, 10 Oct 2019. [[PDF](https://arxiv.org/abs/1910.04760)]
