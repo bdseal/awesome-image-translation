@@ -150,52 +150,6 @@ AAAI 2020. [[PDF](https://arxiv.org/abs/1912.05070)] [[Github](https://github.co
 *Weihao Xia, Zhanglin Cheng, Yujiu Yang.*<br>
 [[PDF](https://arxiv.org/abs/1911.00679)]
 
-## When Deep Learning met Physics-Based Simulation
-
-**Differentiable Programming for Physical Simulation.**<br>
-*Yuanming Hu, Luke Anderson, Tzu-Mao Li, Qi Sun, Nathan Carr, Jonathan Ragan-Kelley, and Frédo Durand.*<br>
-ICLR 2020.  [[PDF](https://arxiv.org/abs/1910.00935)] [[Github](https://github.com/yuanming-hu/taichi)]
-
-**GarNet: A Two-Stream Network for Fast and Accurate 3D Cloth Draping.**<br>
-*[Erhan Gundogdu](https://egundogdu.github.io/), Victor Constantin, Amrollah Seifoddini, Minh Dang, Mathieu Salzmann, Pascal Fua.*<br>
-ICCV 2019. 
-[[PDF](https://arxiv.org/abs/1811.10983)] [[Supplementary Material](https://www.epfl.ch/labs/cvlab/wp-content/uploads/2019/04/GarNet_supplementary.pdf)] 
-[[Project](https://cvlab.epfl.ch/research/garment-simulation/garnet/)] [[Dataset](https://drive.switch.ch/index.php/s/7mAk9SoZ7J4uokt)]
-
-## 3D Clothing Draping & 3D People Dressing
-
-**The Virtual Tailor: Predicting Clothing in 3D as a Function of Human Pose, Shape and Garment Style.**<br>
-*Chaitanya Patel, Zhouyingcheng Liao, Gerard Pons-Moll.*<br>
-CVPR 2020. [[PDF](https://arxiv.org/abs/2003.04583)]
-
-**Learning to Transfer Texture from Clothing Images to 3D Humans.**<br>
-*Aymen Mir, Thiemo Alldieck, Gerard Pons-Moll.*<br>
-arxiv, 4 Mar 2020. [[PDF](https://arxiv.org/abs/2003.02050)]
-
-**GarNet: A Two-Stream Network for Fast and Accurate 3D Cloth Draping.**<br>
-*[Erhan Gundogdu](https://egundogdu.github.io/), Victor Constantin, Amrollah Seifoddini, Minh Dang, Mathieu Salzmann, Pascal Fua.*<br>
-ICCV 2019. [[PDF](https://arxiv.org/abs/1811.10983)] [[Supplementary Material](https://www.epfl.ch/labs/cvlab/wp-content/uploads/2019/04/GarNet_supplementary.pdf)] [[Project](https://cvlab.epfl.ch/research/garment-simulation/garnet/)] [[Dataset](https://drive.switch.ch/index.php/s/7mAk9SoZ7J4uokt)]
-
-**Multi-Garment Net: Learning to Dress 3D People from Images.**<br>
-*Bharat Lal Bhatnagar, Garvita Tiwari, Christian Theobalt, [Gerard Pons-Moll](https://www.mpi-inf.mpg.de/departments/computer-vision-and-machine-learning/people/gerard-pons-moll/)(REAL VIRTUAL HUMANS, MPII).*<br>
-ICCV 2019. [[PDF](https://arxiv.org/abs/1908.06903)]
-
-**Learning to Dress 3D People in Generative Clothing.**<br>
-*CAPE: Clothed Auto Person Encoding.*<br>
-*Dressing 3D Human Using Conditional Mesh-VAE-GAN.*<br>
-*[Qianli Ma](https://ps.is.tue.mpg.de/person/qma), Jinlong Yang, Anurag Ranjan, Sergi Pujades, Gerard Pons-Moll, Siyu Tang, [Michael J. Black](https://ps.is.tuebingen.mpg.de/person/black).*<br>
-[[PDF](https://arxiv.org/abs/1907.13615v2)]
-
-**DRAPE: DRessing Any PErson.**<br>
-*Peng Guan, Loretta Reiss, David A. Hirshberg, Alexander Weiss, Michael J. Black.*<br>
-ACM Transactions on Graphics (TOG) 2012.
-[[PDF](https://dl.acm.org/citation.cfm?doid=2185520.2185531)]
-[[Project](https://ps.is.tue.mpg.de/research_projects/drape-dressing-any-person)]
-
-**CLOTH3D: Clothed 3D Humans.**<br>
-*Hugo Bertiche, Meysam Madadi, Sergio Escalera.*<br>
-arxiv, 5 Dec 2019. [[PDF](https://arxiv.org/abs/1912.02792v1)]
-
 ## Restoration with Unpair or Misaligned Data
 
 **EEMEFN: Low-Light Image Enhancement via Edge-Enhanced Multi-Exposure Fusion Network.**<br>
@@ -277,8 +231,8 @@ CVPR 2018. [[PDF](https://arxiv.org/abs/1712.06087)][[GIthub](https://github.com
 
 ## Get-out-of-the-Lab: Real-World Applications
 
-**ZIllumination Robust Monocular Direct Visual Odometry for Outdoor Environment Mapping.**<br>
-*ZXiaolong Wu and Cedric Pradalier.*<br>
+**Illumination Robust Monocular Direct Visual Odometry for Outdoor Environment Mapping.**<br>
+*Xiaolong Wu and Cedric Pradalier.*<br>
 ICRA 2019. [[PDF](https://hal.archives-ouvertes.fr/hal-01876700/document)]
 
 

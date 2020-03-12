@@ -78,68 +78,6 @@ IJCV 2018. [[BIP Dataset](https://gravis.dmi.unibas.ch/PMM/data/bip/)] [[PDF](ht
 *Oier Mees, Maxim Tatarchenko, Thomas Brox and Wolfram Burgard.*<br>
 IROS 2019. [[PDF](https://arxiv.org/abs/1910.07948.pdf)]
 
-## Clothed People Digitalization
-
-**Learning to Transfer Texture from Clothing Images to 3D Humans.**<br>
-*Aymen Mir, Thiemo Alldieck, Gerard Pons-Moll.*<br>
-arxiv, 4 Mar 2020. [[PDF](https://arxiv.org/abs/2003.02050)]
-
-**PeelNet: Textured 3D reconstruction of human body using single view RGB image.**<br>
-*Sai Sagar Jinka, Rohan Chacko, Avinash Sharma, P. J. Narayanan.*<br>
-arxiv, 16 Feb 2020. [[PDF](https://arxiv.org/abs/2002.06664)]
-
-**Textured Neural Avatars.**<br>
-*Aliaksandra Shysheya, Egor Zakharov, Kara-Ali Aliev, Renat Bashirov, Egor Burkov, Karim Iskakov, Aleksei Ivakhnenko, Yury Malkov, Igor Pasechnik, Dmitry Ulyanov, Alexander Vakhitov, Victor Lempitsky.*<br>
-CVPR 2019 (oral). [[PDF](https://arxiv.org/abs/1905.08776)] [[Project](https://saic-violet.github.io/texturedavatar/)]
-
-**PIFu: Pixel-Aligned Implicit Function for High-Resolution Clothed Human Digitization.**<br>
-*Shunsuke Saito, Zeng Huang, Ryota Natsume, Shigeo Morishima, Angjoo Kanazawa, Hao Li.*<br>
-ICCV 2019. [[Project](shunsukesaito.github.io/PIFu)] [[PDF](https://arxiv.org/pdf/1905.05172.pdf)]
-
-**SimulCap : Single-View Human Performance Capture with Cloth Simulation.** <br>
-*Tao Yu, Zerong Zheng, Yuan Zhong, Jianhui Zhao, Qionghai Dai, Gerard Pons-moll, Yebin Liu.*<br>
-CVPR 2019. [[PDF](http://www.liuyebin.com/simulcap/assets/SimulCap.pdf)] [[Project](http://www.liuyebin.com/simulcap/simulcap.html)]
-
-**SiCloPe: Silhouette-Based Clothed People.** <br>
-*Ryota Natsume, [Shunsuke Saito](http://www-scf.usc.edu/~saitos/), Zeng Huang, Weikai Chen, Chongyang Ma, Hao Li, Shigeo Morishima.* <br>
-CVPR 2019. [[PDF](http://openaccess.thecvf.com/content_CVPR_2019/papers/Natsume_SiCloPe_Silhouette-Based_Clothed_People_CVPR_2019_paper.pdf)]
-
-**Multi-Garment Net_Learning to Dress 3D people from Images.**<br>
-*Bharat Lal Bhatnagar, Garvita Tiwari, Christian Theobalt, Gerard Pons-Moll.*<br>
-ICCV 2019. 
-[[Github](https://github.com/bharat-b7/MultiGarmentNetwork)] [[PDF](https://virtualhumans.mpi-inf.mpg.de/papers/bhatnagar2019mgn/bhatnagar2019mgn.pdf)]
-
-**3DPeople: Modeling the Geometry of Dressed Humans.** <br>
-*Albert Pumarola, Jordi Sanchez, Gary P. T. Choi, Alberto Sanfeliu, Francesc Moreno-Noguer.*<br>
-ICCV 2019. [[PDF](https://arxiv.org/abs/1904.04571)] [[3DPeople-Dataset](https://github.com/albertpumarola/3DPeople-Dataset)]
-
-**Tex2Shape: Detailed Full Human Body Geometry From a Single Image.** <br>
-*Thiemo Alldieck, Gerard Pons-Moll, Christian Theobalt, Marcus Magnor.* <br>
-CVPR 2019. [[PDF](https://arxiv.org/abs/1904.08645)] [[Github](https://github.com/thmoa/tex2shape)]
-
-**Learning to Reconstruct People in Clothing from a Single RGB Camera.**<br>
-*Thiemo Alldieck, Marcus Magnor, Bharat Lal Bhatnagar, Christian Theobalt, Gerard Pons-Moll.* <br>
-ICCV 2019. [[PDF](https://arxiv.org/abs/1903.05885)] [[Github](https://github.com/thmoa/octopus)]
-
-**360-Degree Textures of People in Clothing from a Single Image.** <br>
-*Verica Lazova, Eldar Insafutdinov, Gerard Pons-Moll.* <br>
-3DV 2019. [[PDF](https://arxiv.org/pdf/1908.07117.pdf)] [[Project](http://virtualhumans.mpi-inf.mpg.de/360tex/)] 
-
-**TexturePose: Supervising Human Mesh Estimation with Texture Consistency.** <br>
-[[PDF](https://arxiv.org/abs/1910.11322) Georgios Pavlakos, Nikos Kolotouros, Kostas Daniilidis. <br>
-[Project](https://www.seas.upenn.edu/~pavlakos/projects/texturepose/)
-
-**Detailed Human Avatars from Monocular Video.**  <br>
-*Thiemo Alldieck, Marcus Magnor, Weipeng Xu, Christian Theobalt, Gerard Pons-Moll.* <br>
-3DV 2018. [[PDF](https://arxiv.org/abs/1808.01338)] [[Github](https://github.com/thmoa/semantic_human_texture_stitching)]
-
-**A Neural Network for Detailed Human Depth Estimation From a Single Image.**<br>
-*Sicong Tang, Feitong Tan, Kelvin Cheng, Zhaoyang Li, Siyu Zhu, Ping Tan.* <br>
-ICCV 2109. [[PDF](http://openaccess.thecvf.com/content_ICCV_2019/papers/Tang_A_Neural_Network_for_Detailed_Human_Depth_Estimation_From_a_ICCV_2019_paper.pdf)]
-
-**3D Reconstruction from a single image.** <br>
-Oppo shared on ISMAR 2019.
-
 ## Human 3D Reconstruction
 
 [[Awesome 3D Human Resources List](https://github.com/lijiaman/awesome-3d-human)]

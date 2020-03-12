@@ -150,28 +150,6 @@ ICCV, 2019.
 *Minyoung Huh, Andrew Liu, Andrew Owens, Alexei A. Efros.*<br>
 ECCV 2018. [[Github](https://github.com/minyoungg/selfconsistency)] [[Project](https://minyoungg.github.io/selfconsistency/)]
 
-## Image-Based Virtual Try-On
-
-**PSGAN: Pose and Expression Robust Spatial-Aware GAN for Customizable Makeup Transfer.**<br>
-*Wentao Jiang, Si Liu, Chen Gao, Jie Cao, Ran He, Jiashi Feng, Shuicheng Yan.*<br>
-CVPR2020. [[PDF](https://arxiv.org/abs/1909.06956)]
-
-**GarmentGAN: Photo-realistic Adversarial Fashion Transfer.**<br>
-*Amir Hossein Raffiee, Michael Sollami.*<br>
-arxiv, 4 Mar 2020. [[PDF](https://arxiv.org/abs/2003.01894)]
-
-**TailorGAN: Making User-Defined Fashion Designs.**<br>
-*Lele Chen, Justin Tian, Guo Li, Cheng-Haw Wu, Erh-Kan King, Kuan-Ting Chen, Shao-Hang Hsieh.*<br>
-arxiv, 17 Jan 2019. [[PDF](https://arxiv.org/abs/2001.06427)]
-
-**SieveNet: A Unified Framework for Robust Image-Based Virtual Try-On.**<br>
-*Surgan Jandial, Ayush Chopra, Kumar Ayush, Mayur Hemani, Abhijeet Kumar, Balaji Krishnamurthy.*<br>
-arxiv, 17 Jan 2019. [[PDF](https://arxiv.org/abs/2001.06265)]
-
-**Generating High-Resolution Fashion Model Images Wearing Custom Outfits.**<br> 
-*Gökhan Yildirim, Nikolay Jetchev, Roland Vollgraf, Urs Bergmann.*<br> 
-Workshop on Computer Vision for Fashion, Art and Design, ICCV 2019. [[PDF](https://arxiv.org/abs/1908.09638)] 
-
 ## Free-Hand Sketch
 
 **Image Generation from Freehand Scene Sketches.**<br> 
