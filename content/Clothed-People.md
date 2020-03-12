@@ -1,5 +1,4 @@
-#Clothed People Digitalization
-
+# Clothed People Digitalization
 
 ## 3D Clothing Draping & 3D People Dressing
 
