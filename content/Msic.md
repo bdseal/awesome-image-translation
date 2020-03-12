@@ -164,6 +164,10 @@ ICCV 2019.
 
 ## 3D Clothing Draping & 3D People Dressing
 
+**The Virtual Tailor: Predicting Clothing in 3D as a Function of Human Pose, Shape and Garment Style.**<br>
+*Chaitanya Patel, Zhouyingcheng Liao, Gerard Pons-Moll.*<br>
+CVPR 2020. [[PDF](https://arxiv.org/abs/2003.04583)]
+
 **Learning to Transfer Texture from Clothing Images to 3D Humans.**<br>
 *Aymen Mir, Thiemo Alldieck, Gerard Pons-Moll.*<br>
 arxiv, 4 Mar 2020. [[PDF](https://arxiv.org/abs/2003.02050)]
