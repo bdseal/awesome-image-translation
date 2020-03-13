@@ -7,7 +7,7 @@ relative_links:
   collections: true
 include:
   - README.md
-  - README_category.md
+  - README_.md
   - content/Labs.md
   - content/Datasets.md
   - content/Physical.md
